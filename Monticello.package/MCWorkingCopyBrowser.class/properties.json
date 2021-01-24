@@ -1,0 +1,18 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CheckForNewerVersionsBeforeSave",
+		"ExternalMenuEntries" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"workingCopy",
+		"workingCopyWrapper",
+		"repository",
+		"defaults" ],
+	"name" : "MCWorkingCopyBrowser",
+	"pools" : [
+		 ],
+	"super" : "MCTool",
+	"type" : "normal" }

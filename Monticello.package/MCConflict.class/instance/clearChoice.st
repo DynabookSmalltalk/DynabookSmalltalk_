@@ -1,0 +1,3 @@
+resolving 
+clearChoice
+	chooseRemote := nil

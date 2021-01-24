@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"errorWasInUIProcess" ],
+	"name" : "MorphicDebugger",
+	"pools" : [
+		 ],
+	"super" : "Debugger",
+	"type" : "normal" }

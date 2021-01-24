@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Chunk Format",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"source" ],
+	"name" : "MCDoItParser",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

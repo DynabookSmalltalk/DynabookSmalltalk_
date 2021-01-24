@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "EndOfStream",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+private
+maxCacheSize
+	^ 8

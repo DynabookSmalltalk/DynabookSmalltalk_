@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-ParseNodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CommentNode",
+	"pools" : [
+		 ],
+	"super" : "ParseNode",
+	"type" : "normal" }

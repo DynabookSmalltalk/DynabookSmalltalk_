@@ -1,0 +1,15 @@
+{
+	"category" : "Compiler-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"node",
+		"method" ],
+	"name" : "CompiledMethodWithNode",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

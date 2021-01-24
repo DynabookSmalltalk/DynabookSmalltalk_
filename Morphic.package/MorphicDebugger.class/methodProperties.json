@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"openOn:context:label:contents:fullView:" : "mt 10/6/2019 14:36" },
+	"instance" : {
+		"errorWasInUIProcess" : "mt 9/16/2019 15:06",
+		"errorWasInUIProcess:" : "mt 9/16/2019 15:06",
+		"initialize" : "mt 9/16/2019 14:06",
+		"openFullFromNotifier:" : "mt 9/24/2019 14:54",
+		"openFullNoSuspendLabel:" : "mt 9/24/2019 11:15",
+		"openNotifierNoSuspendContents:label:" : "mt 9/24/2019 14:45",
+		"resumeProcess:" : "mt 10/2/2019 10:59",
+		"windowIsClosing" : "mt 9/16/2019 17:10" } }

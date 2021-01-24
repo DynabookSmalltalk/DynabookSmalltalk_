@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Storing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MCEmptyDiffyVersion",
+	"pools" : [
+		 ],
+	"super" : "MCEmptyVersion",
+	"type" : "normal" }

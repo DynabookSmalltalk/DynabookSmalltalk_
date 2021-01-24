@@ -1,0 +1,3 @@
+repositories
+workingCopy
+	self subclassResponsibility

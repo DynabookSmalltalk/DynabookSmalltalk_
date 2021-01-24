@@ -1,0 +1,16 @@
+{
+	"category" : "Compiler-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"inOptimizedBlock",
+		"readBeforeWritten",
+		"written" ],
+	"name" : "OptimizedBlockLocalTempReadBeforeWrittenVisitor",
+	"pools" : [
+		 ],
+	"super" : "ParseNodeVisitor",
+	"type" : "normal" }

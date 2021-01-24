@@ -1,0 +1,16 @@
+{
+	"category" : "Kernel-Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "fn 12/10/2018 11:03",
+	"instvars" : [
+		"selector",
+		"shouldBeNil",
+		"arguments" ],
+	"name" : "WeakMessageSend",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "weak" }

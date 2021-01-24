@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"object" ],
+	"name" : "NotFound",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

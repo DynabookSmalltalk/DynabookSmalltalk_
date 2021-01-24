@@ -1,0 +1,28 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "eem 5/30/2008 09:44",
+		"codeAnyLitInd:" : "",
+		"codeAnyLiteral:" : "",
+		"codeAnySelector:" : "",
+		"codeArguments:temps:block:" : "eem 5/21/2008 13:28",
+		"codeAssignTo:value:" : "",
+		"codeBlock:returns:" : "sma 3/3/2000 13:34",
+		"codeBrace:" : "",
+		"codeCascade:messages:" : "di 11/19/1999 11:06",
+		"codeCascadedMessage:arguments:" : "",
+		"codeConstants" : "",
+		"codeEmptyBlock" : "sma 3/3/2000 13:35",
+		"codeInst:" : "eem 8/21/2008 14:02",
+		"codeMessage:selector:arguments:" : "mt 9/4/2019 16:09",
+		"codeMethod:block:tempVars:primitive:class:" : "eem 11/6/2012 18:51",
+		"codeRemoteTemp:remoteTemps:" : "eem 10/20/2008 13:01",
+		"codeSelector:code:" : "",
+		"codeSuper" : "",
+		"codeTemp:" : "",
+		"codeTemp:named:" : "",
+		"codeThisContext" : "",
+		"decodeIfNilWithReceiver:selector:arguments:tempReadCounts:" : "mt 10/9/2019 09:42",
+		"decodeLiteralVariableValueDereferenceWithReceiver:selector:arguments:" : "eem 3/12/2013 13:30",
+		"method:class:literals:" : "" } }

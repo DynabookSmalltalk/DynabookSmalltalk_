@@ -1,0 +1,3 @@
+ui
+defaultLabel
+	^ 'Patch Browser'

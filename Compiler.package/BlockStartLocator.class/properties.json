@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 1/11/2018 08:32",
+	"instvars" : [
+		 ],
+	"name" : "BlockStartLocator",
+	"pools" : [
+		 ],
+	"super" : "InstructionClient",
+	"type" : "normal" }

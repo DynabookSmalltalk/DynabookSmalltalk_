@@ -1,0 +1,3 @@
+testing
+isTrunk
+	^ false

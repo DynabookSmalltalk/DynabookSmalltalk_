@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"conversionNeededFor:" : "pre 4/30/2018 12:20",
+		"encodeChar:to:" : "pre 4/30/2018 14:22",
+		"mimeDecode" : "pre 4/30/2018 12:22",
+		"mimeEncode" : "pre 4/30/2018 14:22",
+		"reservedCharacters" : "pre 4/30/2018 12:14" } }

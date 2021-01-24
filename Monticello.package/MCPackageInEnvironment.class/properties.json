@@ -1,0 +1,15 @@
+{
+	"category" : "Monticello-Environments",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jr 2/27/2017 23:05",
+	"instvars" : [
+		"package",
+		"environment" ],
+	"name" : "MCPackageInEnvironment",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

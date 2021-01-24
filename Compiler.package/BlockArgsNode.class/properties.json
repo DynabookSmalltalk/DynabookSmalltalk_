@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"temporaries" ],
+	"name" : "BlockArgsNode",
+	"pools" : [
+		 ],
+	"super" : "ParseNode",
+	"type" : "normal" }

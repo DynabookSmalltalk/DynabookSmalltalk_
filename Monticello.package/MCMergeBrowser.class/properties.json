@@ -1,0 +1,16 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"conflicts",
+		"merger",
+		"ok" ],
+	"name" : "MCMergeBrowser",
+	"pools" : [
+		 ],
+	"super" : "MCOperationsBrowser",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "Compiler-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parser",
+		"varName",
+		"varStart",
+		"varEnd" ],
+	"name" : "UndeclaredVariableReference",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 2/12/2019 22:36",
+	"instvars" : [
+		"block" ],
+	"name" : "LazyCharacterSet",
+	"pools" : [
+		 ],
+	"super" : "CharacterSet",
+	"type" : "normal" }

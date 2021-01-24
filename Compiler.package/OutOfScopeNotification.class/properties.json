@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OutOfScopeNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

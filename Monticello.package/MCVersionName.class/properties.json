@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Modeling",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cmm 3/4/2011 13:32",
+	"instvars" : [
+		 ],
+	"name" : "MCVersionName",
+	"pools" : [
+		 ],
+	"super" : "ByteString",
+	"type" : "bytes" }

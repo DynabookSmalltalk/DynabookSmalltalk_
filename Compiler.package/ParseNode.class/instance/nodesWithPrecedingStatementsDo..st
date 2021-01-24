@@ -1,0 +1,3 @@
+visiting
+nodesWithPrecedingStatementsDo: aBinaryBlock
+	self accept: (ParseNodeWithPrecedingStatementEnumerator ofBlock: aBinaryBlock)

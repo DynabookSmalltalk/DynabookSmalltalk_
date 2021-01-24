@@ -1,0 +1,17 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morph",
+		"label",
+		"modalProcess",
+		"modalValue" ],
+	"name" : "MCTool",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

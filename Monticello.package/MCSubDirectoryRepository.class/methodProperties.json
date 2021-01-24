@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"description" : "nk 6/11/2004 18:48" },
+	"instance" : {
+		"allDirectories" : "nk 6/11/2004 18:55",
+		"allFileNames" : "ul 3/13/2017 02:59",
+		"description" : "ul 3/23/2011 07:21",
+		"findFullNameForReading:" : "ul 3/13/2017 03:01",
+		"findFullNameForWriting:" : "ul 3/13/2017 03:03",
+		"readStreamForFileNamed:do:" : "nk 6/11/2004 20:32",
+		"writeStreamForFileNamed:replace:do:" : "nk 6/11/2004 20:34" } }

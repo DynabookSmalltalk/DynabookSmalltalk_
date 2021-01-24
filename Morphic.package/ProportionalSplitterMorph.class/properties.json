@@ -1,0 +1,19 @@
+{
+	"category" : "Morphic-Windows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SmartHorizontalSplitters",
+		"SmartVerticalSplitters" ],
+	"commentStamp" : "jmv 1/29/2006 17:16",
+	"instvars" : [
+		"leftOrTop",
+		"rightOrBottom",
+		"splitsTopAndBottom",
+		"traceMorph",
+		"movements" ],
+	"name" : "ProportionalSplitterMorph",
+	"pools" : [
+		 ],
+	"super" : "AbstractResizerMorph",
+	"type" : "normal" }

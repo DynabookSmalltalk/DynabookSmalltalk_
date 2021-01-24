@@ -1,0 +1,15 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selection",
+		"reverts" ],
+	"name" : "MCOperationsBrowser",
+	"pools" : [
+		 ],
+	"super" : "MCCodeTool",
+	"type" : "normal" }

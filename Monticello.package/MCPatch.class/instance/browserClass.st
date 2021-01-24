@@ -1,0 +1,3 @@
+ui
+browserClass
+	^ MCPatchBrowser

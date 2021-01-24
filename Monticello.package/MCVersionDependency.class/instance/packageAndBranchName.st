@@ -1,0 +1,3 @@
+accessing
+packageAndBranchName
+	^self versionInfo packageAndBranchName

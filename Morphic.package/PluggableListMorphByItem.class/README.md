@@ -1,0 +1,1 @@
+Like PluggableListMorph but maps #setIndexSelector and #getIndexSelector to actual items instead of indexes.

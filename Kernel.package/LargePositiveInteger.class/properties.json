@@ -1,0 +1,19 @@
+{
+	"category" : "Kernel-Numbers",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ThresholdForDiv21",
+		"ThresholdForMul22",
+		"ThresholdForMul33",
+		"ThresholdForSqrt",
+		"ThresholdForSquaredByFourth",
+		"ThresholdForSquaredByHalf" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "LargePositiveInteger",
+	"pools" : [
+		 ],
+	"super" : "Integer",
+	"type" : "bytes" }

@@ -1,0 +1,20 @@
+updating
+verifyContents
+	"Verify the contents of the receiver, reconstituting if necessary.  Called whenever window is reactivated, to react to possible structural changes.  Also called periodically in morphic if the smartUpdating preference is true"
+
+	| changed currentList modelList modelIndex |
+	self flag: #performance. "mt: We do have changed/update. Why can't the tools communicate through an appropriate notifier such as the SystemChangeNotifier?"
+
+	"1) Is the list still up to date?"
+	currentList := fullList. fullList := nil.
+	modelList := self getFullList.
+	changed := false.
+	modelList doWithIndex: [:column :index |
+		changed := changed or: [(currentList at: index) ~= column]].
+	changed ifFalse: [^ self].
+	self updateList: modelList.
+	
+	"2) Is the selection still up to date?"
+	modelIndex := self getCurrentSelectionIndex.
+	(self modelIndexFor: self selectionIndex) = modelIndex ifTrue: [^ self].
+	self updateListSelection: modelIndex.

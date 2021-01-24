@@ -1,0 +1,16 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tfel 6/12/2010 14:57",
+	"instvars" : [
+		"entry",
+		"target",
+		"selector" ],
+	"name" : "MCMenuSpec",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

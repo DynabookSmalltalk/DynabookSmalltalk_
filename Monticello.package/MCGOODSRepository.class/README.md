@@ -1,0 +1,1 @@
+A MCGOODSRepository simply stores a Dictionary of aVersionInfo-> aMCVersion.

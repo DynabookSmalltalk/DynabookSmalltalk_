@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"initializedInstance" : "sw 5/8/2000 12:05" },
+	"instance" : {
+		"abs" : "",
+		"bitAt:" : "nice 5/20/2011 23:01",
+		"digitsAsFloat" : "nice 9/12/2019 00:15",
+		"highBit" : "sr 6/8/2000 02:10",
+		"isPowerOfTwo" : "ul 1/22/2012 23:57",
+		"isPrime" : "ul 10/17/2018 00:41",
+		"isZero" : "ul 8/2/2014 12:42",
+		"ln" : "nice 9/22/2013 00:59",
+		"log" : "nice 9/22/2013 00:59",
+		"log2" : "nice 2/8/2019 18:24",
+		"negated" : "",
+		"negative" : "di 4/23/1998 11:18",
+		"normalize" : "tfel 2/19/2016 12:43",
+		"positive" : "di 4/23/1998 11:00",
+		"printOn:base:" : "nice 2/15/2008 21:47",
+		"sign" : "jm 3/27/98 06:19",
+		"signBit" : "nice 1/26/2017 23:36",
+		"sqrt" : "jmv 10/13/2011 21:40",
+		"strictlyPositive" : "di 4/23/1998 11:03" } }

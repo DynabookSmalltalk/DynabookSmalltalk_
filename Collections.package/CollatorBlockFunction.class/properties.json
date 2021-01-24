@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-SortFunctions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 11/5/2017 22:57",
+	"instvars" : [
+		"collatorBlock" ],
+	"name" : "CollatorBlockFunction",
+	"pools" : [
+		 ],
+	"super" : "SortFunction",
+	"type" : "normal" }

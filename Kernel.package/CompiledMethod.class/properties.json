@@ -1,0 +1,14 @@
+{
+	"category" : "Kernel-Methods",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 2/27/2018 12:48",
+	"instvars" : [
+		 ],
+	"name" : "CompiledMethod",
+	"pools" : [
+		 ],
+	"super" : "CompiledCode",
+	"type" : "compiledMethod" }

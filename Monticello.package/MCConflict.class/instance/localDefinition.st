@@ -1,0 +1,3 @@
+accessing
+localDefinition
+	^ operation baseDefinition

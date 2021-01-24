@@ -1,0 +1,18 @@
+{
+	"category" : "Morphic-Windows",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GripThickness",
+		"HandleLength" ],
+	"commentStamp" : "jmv 1/29/2006 17:15",
+	"instvars" : [
+		"handleColor",
+		"handleInset",
+		"lastMouse",
+		"showHandle" ],
+	"name" : "AbstractResizerMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

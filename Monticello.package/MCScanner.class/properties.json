@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Chunk Format",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream" ],
+	"name" : "MCScanner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

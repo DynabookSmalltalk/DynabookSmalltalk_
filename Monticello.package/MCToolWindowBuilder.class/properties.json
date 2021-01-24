@@ -1,0 +1,17 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"builder",
+		"window",
+		"currentFrame",
+		"tool" ],
+	"name" : "MCToolWindowBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

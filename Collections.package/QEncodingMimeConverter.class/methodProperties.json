@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"encodeChar:to:" : "pre 4/30/2018 11:30",
+		"encodeWord:" : "pre 4/30/2018 14:24",
+		"mimeDecode" : "pre 4/30/2018 13:46",
+		"mimeEncode" : "pre 4/30/2018 14:16",
+		"readUpToWordInto:" : "pre 4/30/2018 14:26",
+		"readWord" : "pre 4/30/2018 14:27",
+		"reservedCharacters" : "pre 4/30/2018 13:49" } }

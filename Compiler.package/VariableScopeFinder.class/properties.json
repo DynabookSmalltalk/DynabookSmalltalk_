@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 8/14/2010 19:45",
+	"instvars" : [
+		"theVariable" ],
+	"name" : "VariableScopeFinder",
+	"pools" : [
+		 ],
+	"super" : "ParseNodeVisitor",
+	"type" : "normal" }

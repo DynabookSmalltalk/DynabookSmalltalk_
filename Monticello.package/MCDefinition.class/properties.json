@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Base",
+	"classinstvars" : [
+		"instances" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hjh 1/22/2013 22:25",
+	"instvars" : [
+		 ],
+	"name" : "MCDefinition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

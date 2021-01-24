@@ -1,0 +1,5 @@
+accessing
+description
+	^{
+		baseTrait .
+		classTraitComposition }

@@ -1,0 +1,28 @@
+{
+	"category" : "Compiler-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cwp 12/26/2012 23:34",
+	"instvars" : [
+		"here",
+		"hereType",
+		"hereMark",
+		"hereEnd",
+		"prevMark",
+		"prevEnd",
+		"encoder",
+		"parseNode",
+		"failBlock",
+		"requestorOffset",
+		"tempsMark",
+		"doitFlag",
+		"properties",
+		"queriedUnusedTemporaries",
+		"cue" ],
+	"name" : "Parser",
+	"pools" : [
+		 ],
+	"super" : "Scanner",
+	"type" : "normal" }

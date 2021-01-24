@@ -1,0 +1,4 @@
+layout
+layoutComputed
+
+	^ fullBounds notNil

@@ -1,0 +1,26 @@
+{
+	"class" : {
+		"operation:" : "ab 6/1/2003 13:07" },
+	"instance" : {
+		"annotations" : "ul 12/12/2009 14:10",
+		"applyTo:" : "ab 6/1/2003 13:04",
+		"chooseLocal" : "ab 6/1/2003 13:03",
+		"chooseNewer" : "nk 10/21/2003 23:16",
+		"chooseOlder" : "nk 10/21/2003 23:22",
+		"chooseRemote" : "ab 6/1/2003 13:03",
+		"chooseSameAST" : "tfel 7/25/2016 15:20",
+		"clearChoice" : "ab 7/18/2003 16:39",
+		"definition" : "ul 12/12/2009 14:10",
+		"isConflict" : "dvf 8/10/2004 23:24",
+		"isLocalNewer" : "nk 10/21/2003 23:11",
+		"isRemoteNewer" : "nk 10/21/2003 23:15",
+		"isResolved" : "ab 6/1/2003 13:02",
+		"localChosen" : "ab 6/2/2003 01:45",
+		"localDefinition" : "ab 6/1/2003 13:10",
+		"operation" : "avi 9/19/2005 02:19",
+		"operation:" : "ab 6/1/2003 13:07",
+		"remoteChosen" : "ab 6/2/2003 01:45",
+		"remoteDefinition" : "ab 6/1/2003 13:10",
+		"source" : "ab 7/18/2003 16:47",
+		"status" : "ab 6/1/2003 13:48",
+		"summary" : "ab 7/18/2003 16:54" } }

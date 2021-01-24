@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-SortFunctions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 11/6/2017 21:54",
+	"instvars" : [
+		 ],
+	"name" : "ReverseSortFunction",
+	"pools" : [
+		 ],
+	"super" : "ComposedSortFunction",
+	"type" : "normal" }

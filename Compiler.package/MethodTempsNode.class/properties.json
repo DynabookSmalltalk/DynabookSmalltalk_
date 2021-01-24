@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-ParseNodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"temporaries" ],
+	"name" : "MethodTempsNode",
+	"pools" : [
+		 ],
+	"super" : "ParseNode",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-SortFunctions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 11/5/2017 22:36",
+	"instvars" : [
+		"property" ],
+	"name" : "PropertySortFunction",
+	"pools" : [
+		 ],
+	"super" : "ComposedSortFunction",
+	"type" : "normal" }

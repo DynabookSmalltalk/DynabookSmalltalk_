@@ -1,0 +1,25 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BrowseBranchedVersionsSeparately",
+		"Order" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"repository",
+		"packageNames",
+		"versionNames",
+		"selectedPackage",
+		"selectedVersion",
+		"order",
+		"versionInfo",
+		"loaded",
+		"newer",
+		"inherited",
+		"inheritedId" ],
+	"name" : "MCRepositoryInspector",
+	"pools" : [
+		 ],
+	"super" : "MCVersionInspector",
+	"type" : "normal" }

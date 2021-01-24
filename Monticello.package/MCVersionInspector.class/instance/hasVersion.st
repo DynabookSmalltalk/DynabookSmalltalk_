@@ -1,0 +1,3 @@
+accessing
+hasVersion
+	^version notNil

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"decorating:in:" : "jr 2/4/2017 00:16" },
+	"instance" : {
+		"basicInspect" : "jr 2/4/2017 00:18",
+		"doesNotUnderstand:" : "jr 2/4/2017 00:03",
+		"environment" : "jr 2/4/2017 00:02",
+		"environment:" : "jr 2/4/2017 00:02",
+		"inEnvironment:" : "jr 2/28/2017 02:52",
+		"initializeWithPackage:in:" : "jr 2/4/2017 00:03",
+		"respondsTo:" : "jr 2/21/2017 22:44",
+		"snapshot" : "jr 2/4/2017 00:08" } }

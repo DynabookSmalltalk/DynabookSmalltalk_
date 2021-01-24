@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"creationTemplate" : "avi 9/16/2003 13:57",
+		"description" : "avi 9/16/2003 13:57",
+		"fillInTheBlankRequest" : "bkv 2/18/2004 21:02",
+		"host:directory:user:password:" : "avi 9/16/2003 13:57",
+		"morphicConfigure" : "bkv 2/18/2004 21:02",
+		"templateCreationSelector" : "bkv 2/18/2004 20:38" },
+	"instance" : {
+		"allFileNames" : "avi 9/16/2003 14:04",
+		"clientDo:" : "avi 9/16/2003 16:57",
+		"description" : "avi 9/17/2003 12:52",
+		"directory:" : "avi 9/16/2003 13:56",
+		"host:" : "avi 9/16/2003 13:57",
+		"parseDirectoryListing:" : "cmm 3/3/2011 14:54",
+		"password:" : "avi 9/16/2003 13:56",
+		"readStreamForFileNamed:do:" : "nice 12/27/2009 03:11",
+		"user:" : "avi 9/16/2003 13:56",
+		"writeStreamForFileNamed:replace:do:" : "avi 10/31/2003 14:35" } }

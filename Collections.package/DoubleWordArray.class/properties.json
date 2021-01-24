@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Arrayed",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 9/20/2016 23:37",
+	"instvars" : [
+		 ],
+	"name" : "DoubleWordArray",
+	"pools" : [
+		 ],
+	"super" : "ArrayedCollection",
+	"type" : "longs" }

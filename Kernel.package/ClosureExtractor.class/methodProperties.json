@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"withAction:andScanner:" : "mha 9/21/2010 11:34" },
+	"instance" : {
+		"action" : "mha 9/21/2010 11:18",
+		"action:" : "mha 9/21/2010 11:18",
+		"blockReturnConstant:" : "eem 8/1/2014 07:15",
+		"blockReturnTop" : "eem 10/24/2012 14:08",
+		"pushClosureCopyNumCopiedValues:numArgs:blockSize:" : "eem 10/24/2012 14:11",
+		"pushFullClosure:numCopied:" : "eem 11/19/2018 16:08",
+		"pushFullClosure:numCopied:receiverOnStack:ignoreOuterContext:" : "eem 11/19/2018 16:12",
+		"scanner" : "mha 9/21/2010 11:35",
+		"scanner:" : "eem 3/30/2017 15:40" } }

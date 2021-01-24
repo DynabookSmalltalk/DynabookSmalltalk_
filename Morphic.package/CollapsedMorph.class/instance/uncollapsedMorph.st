@@ -1,0 +1,4 @@
+accessing
+uncollapsedMorph
+
+	^ uncollapsedMorph

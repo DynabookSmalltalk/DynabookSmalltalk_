@@ -1,0 +1,4 @@
+*monticello
+classDefinitions
+
+	^{ self asClassDefinition }

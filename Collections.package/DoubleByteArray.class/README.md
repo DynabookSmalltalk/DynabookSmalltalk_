@@ -1,0 +1,1 @@
+DoubleByteArrays store 16-bit unsigned Integer values.

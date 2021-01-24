@@ -1,0 +1,15 @@
+{
+	"category" : "Monticello-Repositories",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"sorter",
+		"fileNames" ],
+	"name" : "MCPackageCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

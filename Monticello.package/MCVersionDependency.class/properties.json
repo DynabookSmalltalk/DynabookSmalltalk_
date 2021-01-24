@@ -1,0 +1,15 @@
+{
+	"category" : "Monticello-Versioning",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"package",
+		"versionInfo" ],
+	"name" : "MCVersionDependency",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

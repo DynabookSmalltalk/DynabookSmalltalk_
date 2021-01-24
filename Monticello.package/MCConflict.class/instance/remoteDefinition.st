@@ -1,0 +1,3 @@
+testing
+remoteDefinition
+	^ operation targetDefinition

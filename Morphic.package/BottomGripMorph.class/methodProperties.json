@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"apply:" : "mt 1/4/2019 12:07",
+		"defaultHeight" : "mt 4/24/2015 11:31",
+		"gripLayoutFrame" : "mt 1/3/2019 14:35",
+		"initialize" : "ar 6/23/2010 17:01",
+		"layoutProportionallyInBounds:positioning:" : "mt 10/8/2019 16:52",
+		"orientation" : "mt 1/4/2019 11:01",
+		"ptName" : "spfa 8/15/2009 11:37",
+		"resizeCursor" : "spfa 8/15/2009 11:37" } }

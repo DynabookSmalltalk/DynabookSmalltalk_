@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-SortFunctions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "nice 11/5/2017 22:52",
+	"instvars" : [
+		 ],
+	"name" : "SortFunction",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

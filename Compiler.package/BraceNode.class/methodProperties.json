@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"example" : "di 11/19/1999 09:05" },
+	"instance" : {
+		"accept:" : "eem 9/6/2009 12:33",
+		"analyseTempsWithin:rootNode:assignmentPools:" : "eem 7/20/2009 09:33",
+		"blockAssociationCheck:" : "eem 9/25/2008 14:48",
+		"casesForwardDo:" : "",
+		"casesReverseDo:" : "",
+		"deoptimize" : "eem 1/18/2020 17:33",
+		"elements" : "eem 5/21/2008 10:40",
+		"elements:" : "",
+		"elements:sourceLocations:" : "",
+		"emitCodeForValue:encoder:" : "eem 4/5/2017 17:12",
+		"isBraceNode" : "eem 1/18/2020 17:24",
+		"matchBraceStreamReceiver:messages:" : "di 11/19/1999 11:06",
+		"maxElementsForConsArray" : "eem 5/30/2008 17:22",
+		"numElements" : "",
+		"printOn:indent:" : "di 11/19/1999 09:17",
+		"printWithClosureAnalysisOn:indent:" : "eem 6/2/2008 11:47",
+		"sizeCodeForValue:" : "eem 4/5/2017 17:16" } }

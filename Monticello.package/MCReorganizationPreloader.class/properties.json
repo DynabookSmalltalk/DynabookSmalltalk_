@@ -1,0 +1,16 @@
+{
+	"category" : "Monticello-Loading",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "bf 8/20/2013 13:51",
+	"instvars" : [
+		"preloads",
+		"previousRemovals",
+		"currentRemovals" ],
+	"name" : "MCReorganizationPreloader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

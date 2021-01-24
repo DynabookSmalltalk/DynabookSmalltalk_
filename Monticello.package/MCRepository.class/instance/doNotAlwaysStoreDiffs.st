@@ -1,0 +1,3 @@
+accessing
+doNotAlwaysStoreDiffs
+	storeDiffs := false

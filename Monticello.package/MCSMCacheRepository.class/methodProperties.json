@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"description" : "nk 1/23/2004 10:04",
+		"morphicConfigure" : "nk 1/23/2004 10:05" },
+	"instance" : {
+		"allFullFileNames" : "nk 1/23/2004 10:03",
+		"description" : "nk 1/23/2004 09:40",
+		"directory" : "nk 1/23/2004 09:40",
+		"directory:" : "nk 1/23/2004 09:40",
+		"fullNameFor:" : "nk 1/23/2004 09:55",
+		"hash" : "nk 1/23/2004 09:55",
+		"initialize" : "ar 1/3/2010 14:22",
+		"isValid" : "nk 1/23/2004 09:47",
+		"readStreamForFileNamed:do:" : "nk 1/23/2004 09:57",
+		"smCache" : "nk 1/23/2004 09:37",
+		"smCache:" : "nk 1/23/2004 09:45",
+		"writeStreamForFileNamed:replace:do:" : "nk 1/23/2004 09:57" } }

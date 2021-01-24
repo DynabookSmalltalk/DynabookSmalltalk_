@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Syntax",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "KeyWordNode",
+	"pools" : [
+		 ],
+	"super" : "SelectorNode",
+	"type" : "normal" }

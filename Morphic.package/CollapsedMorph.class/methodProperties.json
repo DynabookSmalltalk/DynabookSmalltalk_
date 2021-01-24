@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"createReplacementFor:in:" : "ct 9/20/2019 20:19" },
+	"instance" : {
+		"beReplacementFor:" : "ct 9/20/2019 20:18",
+		"beReplacementFor:in:" : "ct 9/20/2019 20:19",
+		"buildWindowMenu" : "dgd 8/30/2003 16:41",
+		"centerWithWrappees:" : "ct 9/17/2019 16:18",
+		"collapseOrExpand" : "sw 9/1/2000 11:07",
+		"uncollapseToHand" : "sw 4/9/2001 14:23",
+		"uncollapsedMorph" : "ct 9/20/2019 15:00",
+		"wantsExpandBox" : "sw 6/5/2001 22:55" } }

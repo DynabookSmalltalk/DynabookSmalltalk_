@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Pluggable Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 10/12/2019 12:25",
+	"instvars" : [
+		 ],
+	"name" : "PluggableListMorphByItem",
+	"pools" : [
+		 ],
+	"super" : "PluggableListMorph",
+	"type" : "normal" }

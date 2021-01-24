@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"amount:" : "ls 6/27/1998 15:55",
+		"example" : "ls 6/24/1998 18:06",
+		"scanCharacter" : "mt 11/19/2019 11:20",
+		"scanFrom:" : "ct 11/15/2019 17:44",
+		"tabs:" : "ls 6/27/1998 15:54" },
+	"instance" : {
+		"amount" : "ls 6/22/1998 17:51",
+		"amount:" : "ls 6/22/1998 17:51",
+		"dominates:" : "cmm 8/31/2018 17:20",
+		"emphasizeScanner:" : "ls 6/22/1998 18:56",
+		"isTextIndent" : "cmm 8/31/2018 17:09",
+		"printOn:" : "ls 6/22/1998 18:03",
+		"shouldFormBlocks" : "topa 2/9/2017 10:23",
+		"writeScanOn:" : "ct 11/15/2019 17:51" } }

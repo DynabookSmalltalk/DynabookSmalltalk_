@@ -1,0 +1,3 @@
+constants
+pattern
+	^ 'Trait named:*'

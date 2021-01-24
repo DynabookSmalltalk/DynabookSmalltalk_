@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"inClass:withCode:doitFlag:errorMessage:location:" : "nice 9/20/2013 01:59" },
+	"instance" : {
+		"doitFlag" : "ar 9/27/2005 19:11",
+		"errorClass" : "ar 9/27/2005 19:10",
+		"errorCode" : "ar 9/27/2005 19:10",
+		"errorMessage" : "eem 9/23/2008 14:23",
+		"isResumable" : "ct 6/29/2019 23:36",
+		"location" : "eem 9/23/2008 14:23",
+		"messageText" : "ct 6/29/2019 23:34",
+		"newSource" : "nice 9/18/2013 21:45",
+		"newSource:" : "nice 9/18/2013 02:17",
+		"reparse:notifying:ifFail:" : "nice 9/20/2013 01:53",
+		"resume:" : "ct 6/30/2019 13:59",
+		"setClass:code:doitFlag:errorMessage:location:" : "nice 9/20/2013 01:59",
+		"tryNewSourceIfAvailable" : "nice 9/18/2013 02:48" } }

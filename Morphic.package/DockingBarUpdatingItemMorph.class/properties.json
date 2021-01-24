@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Menus-DockingBar",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DockingBarUpdatingItemMorph",
+	"pools" : [
+		 ],
+	"super" : "UpdatingMenuItemMorph",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+menus
+getOperationMenu: aMenu
+	^ aMenu

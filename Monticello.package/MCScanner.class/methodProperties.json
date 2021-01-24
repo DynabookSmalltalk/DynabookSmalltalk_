@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"scan:" : "avi 1/22/2004 20:14",
+		"scanTokens:" : "ul 10/18/2018 01:45" },
+	"instance" : {
+		"next" : "ul 10/22/2018 22:57",
+		"nextArray" : "ul 10/18/2018 01:54",
+		"nextString" : "avi 1/22/2004 20:09",
+		"nextSymbol" : "avi 1/22/2004 20:16",
+		"stream:" : "avi 1/22/2004 20:06" } }

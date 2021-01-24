@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Repositories",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"proxy" ],
+	"name" : "MCProxyMaterialization",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

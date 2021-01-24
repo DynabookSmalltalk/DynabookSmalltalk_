@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "eem 9/6/2009 12:34",
+		"addRemoteTemp:encoder:" : "eem 4/5/2017 17:23",
+		"emitCodeForStoreInto:stack:encoder:" : "eem 4/5/2017 17:30",
+		"emitCodeForStorePopInto:stack:encoder:" : "eem 4/5/2017 17:27",
+		"emitCodeForValueOf:stack:encoder:" : "eem 4/5/2017 17:31",
+		"isIndirectTempVector" : "eem 6/2/2008 16:50",
+		"nodeToInitialize:" : "eem 4/5/2017 17:27",
+		"printDefinitionForClosureAnalysisOn:" : "ul 3/13/2017 01:28",
+		"referenceScopesAndIndicesDo:" : "eem 5/20/2008 17:57",
+		"remoteTemps" : "eem 6/2/2008 16:47",
+		"remoteTemps:" : "eem 9/25/2008 09:46",
+		"scope" : "eem 9/8/2008 10:47",
+		"sizeCodeForStoreInto:encoder:" : "eem 4/5/2017 17:31",
+		"sizeCodeForStorePopInto:encoder:" : "eem 4/5/2017 17:31",
+		"sizeCodeForValueOf:encoder:" : "eem 4/5/2017 17:31" } }

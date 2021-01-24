@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "eem 9/6/2009 12:34",
+		"assignmentCheck:at:" : "eem 5/20/2010 09:12",
+		"emitCodeForLoad:forValue:encoder:" : "eem 4/3/2013 12:37",
+		"emitCodeForStore:encoder:" : "eem 4/12/2013 16:05",
+		"emitCodeForStorePop:encoder:" : "nice 4/5/2013 02:20",
+		"emitCodeForValue:encoder:" : "nice 7/23/2010 23:17",
+		"resetForBlockGeneration" : "eem 1/6/2018 13:09",
+		"resetFromCopy:" : "eem 1/2/2018 13:13",
+		"sizeCodeForLoad:forValue:" : "eem 4/3/2013 12:37",
+		"sizeCodeForStore:" : "eem 4/3/2013 13:14",
+		"sizeCodeForStorePop:" : "nice 4/5/2013 02:29",
+		"sizeCodeForValue:" : "nice 7/23/2010 23:58" } }

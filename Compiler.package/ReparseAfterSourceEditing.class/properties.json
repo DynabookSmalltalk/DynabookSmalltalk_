@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 9/18/2013 22:05",
+	"instvars" : [
+		"newSource" ],
+	"name" : "ReparseAfterSourceEditing",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Compiler-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ST80ColorTable" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dialect",
+		"colorTable" ],
+	"name" : "ColoredCodeStream",
+	"pools" : [
+		 ],
+	"super" : "TextStream",
+	"type" : "normal" }

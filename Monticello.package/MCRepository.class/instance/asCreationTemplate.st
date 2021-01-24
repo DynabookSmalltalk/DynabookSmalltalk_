@@ -1,0 +1,3 @@
+accessing
+asCreationTemplate
+	^ self creationTemplate

@@ -1,0 +1,15 @@
+{
+	"category" : "Monticello-Modeling",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"script",
+		"packageName" ],
+	"name" : "MCScriptDefinition",
+	"pools" : [
+		 ],
+	"super" : "MCDefinition",
+	"type" : "normal" }

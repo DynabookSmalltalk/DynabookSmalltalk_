@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"enclosingNodeFor:of:" : "eem 8/12/2010 16:50",
+		"ofVariable:" : "eem 8/12/2010 16:18",
+		"visitAssignmentNode:" : "eem 8/12/2010 16:51",
+		"visitBlockNode:" : "eem 8/12/2010 16:52",
+		"visitBraceNode:" : "eem 8/12/2010 16:52",
+		"visitCascadeNode:" : "eem 8/16/2010 18:02",
+		"visitCommentNode:" : "eem 8/12/2010 18:43",
+		"visitFieldNode:" : "eem 8/12/2010 18:43",
+		"visitFutureNode:" : "eem 8/12/2010 16:55",
+		"visitInstanceVariableNode:" : "eem 8/12/2010 18:43",
+		"visitLiteralNode:" : "eem 8/12/2010 18:43",
+		"visitLiteralVariableNode:" : "eem 8/12/2010 19:03",
+		"visitMessageNode:" : "eem 8/12/2010 17:07",
+		"visitMethodNode:" : "eem 8/12/2010 17:00",
+		"visitNewArrayNode:" : "eem 8/12/2010 18:43",
+		"visitRemoteTempVectorNode:" : "eem 8/12/2010 18:43",
+		"visitReturnNode:" : "eem 8/12/2010 17:01",
+		"visitSelectorNode:" : "eem 8/12/2010 18:43",
+		"visitTempVariableNode:" : "eem 8/12/2010 18:43",
+		"visitUndeclaredVariableNode:" : "eem 8/13/2010 16:50",
+		"visitVariableNode:" : "eem 8/12/2010 19:06" } }

@@ -1,0 +1,1 @@
+I implement an element of a stack. I'm a container for any type of object, saved into the 'element' variable. My superclass Link allows me to be part of a LinkedList.

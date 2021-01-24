@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"canReadFileNamed:" : "avi 1/21/2004 19:00",
+		"concreteSubclassesDo:" : "ul 3/22/2011 22:34",
+		"isAbstract" : "avi 1/21/2004 19:01",
+		"new" : "avi 1/21/2004 19:02",
+		"on:" : "avi 1/21/2004 19:02",
+		"on:name:" : "avi 1/21/2004 19:02",
+		"readerClassForFileNamed:" : "ul 3/22/2011 21:23" },
+	"instance" : {
+		"stream:" : "avi 1/21/2004 19:00" } }

@@ -1,0 +1,17 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"message",
+		"ignore",
+		"patchBlock" ],
+	"name" : "MCSaveVersionDialog",
+	"pools" : [
+		 ],
+	"super" : "MCPatchBrowser",
+	"type" : "normal" }

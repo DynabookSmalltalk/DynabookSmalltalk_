@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MCPatchBrowser",
+	"pools" : [
+		 ],
+	"super" : "MCOperationsBrowser",
+	"type" : "normal" }

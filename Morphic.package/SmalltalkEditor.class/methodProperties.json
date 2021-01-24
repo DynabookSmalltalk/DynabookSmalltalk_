@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"initialize" : "ar 10/5/2009 22:56",
+		"initializeCmdKeyShortcuts" : "mt 11/10/2015 09:53",
+		"initializeShiftCmdKeyShortcuts" : "cmm 6/28/2018 15:15",
+		"initializeShiftedYellowButtonMenu" : "ar 10/5/2009 23:21",
+		"initializeYellowButtonMenu" : "ar 10/5/2009 23:21" },
+	"instance" : {
+		"blinkPrevParen:" : "Richo 10/6/2011 15:59",
+		"buttonForIt" : "nice 6/10/2017 17:37",
+		"changeEmphasis:" : "mt 8/7/2019 09:02",
+		"doItButtonFromSelection" : "nice 12/16/2013 15:22",
+		"emphasisExtras" : "mt 8/7/2019 09:05",
+		"flattenSelection:" : "cmm 6/29/2018 16:06",
+		"handleEmphasisExtra:with:" : "mt 8/7/2019 09:28",
+		"invokePrettyPrint:" : "cmm 3/1/2010 16:06",
+		"methodArgument:" : "cmm 4/4/2010 20:41",
+		"nextWord:" : "cmm 11/3/2015 23:32",
+		"previousWord:" : "cmm 11/3/2015 23:31",
+		"select" : "ar 8/8/2009 22:35",
+		"spyOnIt" : "tfel 4/7/2015 09:40",
+		"styleIt" : "mt 8/7/2019 09:21",
+		"styleSelection" : "mt 8/7/2019 09:23",
+		"styler" : "mt 8/7/2019 09:04",
+		"tallyIt" : "jmv 8/8/2009 15:36",
+		"tallySelection" : "mt 8/14/2019 10:09",
+		"typeMethodArgument:" : "nice 8/3/2011 20:47" } }

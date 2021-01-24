@@ -1,0 +1,5 @@
+private-ui
+innerButtonSpecs
+	^
+		#(('Select All' selectAll 'select all changes')
+		  ('Select None' selectNone 'select no changes'))

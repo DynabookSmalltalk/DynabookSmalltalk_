@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Modeling",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MCInstanceVariableDefinition",
+	"pools" : [
+		 ],
+	"super" : "MCVariableDefinition",
+	"type" : "normal" }

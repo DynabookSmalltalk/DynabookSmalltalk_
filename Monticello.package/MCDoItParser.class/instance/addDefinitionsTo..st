@@ -1,0 +1,3 @@
+evaluating
+addDefinitionsTo: aCollection
+	self subclassResponsibility 

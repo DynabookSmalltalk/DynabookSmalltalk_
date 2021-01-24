@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"info:workingCopy:repository:" : "cmm 8/16/2013 14:13" },
+	"instance" : {
+		"becomeAncestry" : "abc 8/14/2013 12:58",
+		"doesNotUnderstand:" : "cmm 8/12/2013 21:25",
+		"isMCInfoProxy" : "cmm 8/16/2013 13:47",
+		"materializeInfo" : "cmm 8/16/2013 14:45",
+		"setInfo:workingCopy:repository:" : "cmm 8/16/2013 14:14" } }

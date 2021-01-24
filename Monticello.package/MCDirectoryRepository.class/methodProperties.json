@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"creationTemplateLocation:" : "cmm 4/22/2011 16:13",
+		"description" : "ab 7/24/2003 21:20",
+		"directory:" : "cmm 4/22/2011 16:54",
+		"fillInTheBlankRequest" : "cmm 4/22/2011 16:00",
+		"morphicConfigure" : "tpr 12/23/2017 18:17",
+		"path:" : "cmm 4/22/2011 16:58" },
+	"instance" : {
+		"allFileNames" : "ul 4/26/2011 04:11",
+		"creationTemplate" : "cmm 4/22/2011 16:59",
+		"description" : "avi 10/9/2003 12:57",
+		"directory" : "ab 7/6/2003 17:49",
+		"directory:" : "ab 7/6/2003 12:56",
+		"hash" : "ab 7/19/2003 21:40",
+		"initialize" : "ab 8/21/2003 12:37",
+		"isValid" : "nk 11/2/2003 10:55",
+		"readStreamForFileNamed:do:" : "ab 8/21/2003 12:45",
+		"writeStreamForFileNamed:replace:do:" : "avi 10/31/2003 14:35" } }

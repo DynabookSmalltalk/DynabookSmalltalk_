@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Versioning",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream" ],
+	"name" : "MCPatchMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Kernel-Exceptions",
+	"classinstvars" : [
+		"suppressed",
+		"resetOnStartUp" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Warning",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

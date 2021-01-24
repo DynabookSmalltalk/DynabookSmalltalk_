@@ -1,0 +1,3 @@
+*monticello-override
+isMeta
+	^true

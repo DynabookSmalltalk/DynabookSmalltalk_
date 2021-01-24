@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NullMimeConverter",
+	"pools" : [
+		 ],
+	"super" : "MimeConverter",
+	"type" : "normal" }

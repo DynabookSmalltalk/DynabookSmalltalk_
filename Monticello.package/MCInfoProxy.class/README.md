@@ -1,0 +1,1 @@
+A MCInfoProxy takes the place of a MCVersionInfo with a large tree of ancestors that consume memory in the image, but are almost never accessed.  If they are, however, I will dynamically retrieve and become the Info from the original MC repository which includes the full ancestry tree.

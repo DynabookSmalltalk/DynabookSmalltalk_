@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 2/29/2016 00:07",
+	"instvars" : [
+		 ],
+	"name" : "EncoderForV3PlusClosures",
+	"pools" : [
+		 ],
+	"super" : "EncoderForV3",
+	"type" : "normal" }

@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"preloadMovesBetween:" : "bf 5/4/2013 14:48" },
+	"instance" : {
+		"addDefinition:" : "bf 5/4/2013 15:05",
+		"addVersion:" : "bf 5/4/2013 14:58",
+		"initialize" : "bf 5/4/2013 19:45",
+		"modifyDefinition:to:" : "bf 5/4/2013 14:51",
+		"preload" : "bf 5/8/2013 17:09",
+		"removeDefinition:" : "bf 5/4/2013 15:05" } }

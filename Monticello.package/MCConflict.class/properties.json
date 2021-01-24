@@ -1,0 +1,15 @@
+{
+	"category" : "Monticello-Merging",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"operation",
+		"chooseRemote" ],
+	"name" : "MCConflict",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

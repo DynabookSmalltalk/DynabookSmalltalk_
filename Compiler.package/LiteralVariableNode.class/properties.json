@@ -1,0 +1,15 @@
+{
+	"category" : "Compiler-ParseNodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"readNode",
+		"writeNode" ],
+	"name" : "LiteralVariableNode",
+	"pools" : [
+		 ],
+	"super" : "VariableNode",
+	"type" : "normal" }

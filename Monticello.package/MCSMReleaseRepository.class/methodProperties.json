@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"creationTemplate" : "avi 2/10/2004 14:15",
+		"description" : "avi 2/10/2004 13:42",
+		"fillInTheBlankRequest" : "bkv 2/18/2004 21:03",
+		"morphicConfigure" : "bkv 2/18/2004 21:03",
+		"package:user:password:" : "avi 2/10/2004 14:14" },
+	"instance" : {
+		"basicStoreVersion:" : "avi 8/26/2004 14:21",
+		"checkResult:" : "avi 2/10/2004 14:11",
+		"description" : "avi 2/10/2004 14:15",
+		"initializeWithPackage:user:password:" : "avi 2/10/2004 14:15",
+		"releaseVersion:url:" : "cmm 3/5/2011 15:19",
+		"squeakMapUrl" : "avi 2/10/2004 14:58",
+		"stringForVersion:" : "avi 2/10/2004 13:53",
+		"uploadVersion:" : "avi 2/12/2004 19:41" } }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:" : "cmm 1/18/2002 16:08",
+		"on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:" : "cmm 1/18/2002 16:08" },
+	"instance" : {
+		"changeModelSelection:" : "cmm 1/18/2002 17:49",
+		"changeModelSelection:shifted:controlled:" : "cmm 1/18/2002 16:50",
+		"hasMultiSelection" : "mt 10/11/2019 17:57",
+		"itemSelectedAmongMultiple:" : "mt 10/12/2019 12:40",
+		"listSelectionAt:" : "cmm 1/18/2002 16:08",
+		"listSelectionAt:put:" : "cmm 1/18/2002 16:08",
+		"mouseDown:" : "bf 7/19/2012 16:39",
+		"mouseLeaveDragging:" : "mt 1/6/2020 10:11",
+		"mouseMove:" : "cmm 4/18/2016 18:19",
+		"mouseUp:" : "mt 10/11/2019 18:02",
+		"on:list:primarySelection:changePrimarySelection:listSelection:changeListSelection:menu:keystroke:" : "cmm 12/24/2002 15:47",
+		"update:" : "mt 10/11/2019 18:01" } }

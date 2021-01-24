@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Collections-Arrayed",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pre 12/13/2018 20:14",
+	"instvars" : [
+		 ],
+	"name" : "Cubic",
+	"pools" : [
+		 ],
+	"super" : "Array",
+	"type" : "variable" }

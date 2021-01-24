@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"loadVersion:" : "avi 1/24/2004 20:06",
+		"new" : "avi 1/24/2004 19:51" },
+	"instance" : {
+		"addDependency:" : "cwp 11/7/2004 17:06",
+		"addVersion:" : "cwp 11/7/2004 17:04",
+		"checkForModifications" : "avi 1/24/2004 20:15",
+		"checkIfDepIsOlder:" : "cwp 11/7/2004 17:00",
+		"confirmMissingDependency:" : "cwp 11/7/2004 17:06",
+		"depAgeIsOk:" : "cwp 11/7/2004 17:02",
+		"initialize" : "avi 1/24/2004 19:51",
+		"load" : "bf 5/11/2012 13:31",
+		"warnAboutLosingChangesTo:" : "avi 1/24/2004 20:17" } }

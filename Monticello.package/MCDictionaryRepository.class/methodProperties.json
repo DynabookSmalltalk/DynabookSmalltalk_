@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"=" : "ab 8/21/2003 12:56",
+		"allVersionInfos" : "ab 8/20/2003 21:04",
+		"allVersionNames" : "ar 12/15/2010 21:59",
+		"basicStoreVersion:" : "avi 8/26/2004 14:20",
+		"closestAncestorVersionFor:ifNone:" : "stephaneducasse 2/4/2006 20:47",
+		"description" : "ab 7/26/2003 02:47",
+		"description:" : "ab 7/26/2003 02:50",
+		"dictionary" : "ab 7/26/2003 02:47",
+		"dictionary:" : "ab 7/26/2003 02:47",
+		"includesVersionNamed:" : "cmm 3/5/2011 18:32",
+		"includesVersionWithInfo:" : "ab 8/21/2003 19:49",
+		"initialize" : "avi 2/12/2004 19:33",
+		"morphicOpen:" : "ar 8/6/2009 18:24",
+		"sortedVersionInfos" : "ab 8/21/2003 12:40",
+		"versionWithInfo:ifAbsent:" : "ab 8/16/2003 18:22" } }

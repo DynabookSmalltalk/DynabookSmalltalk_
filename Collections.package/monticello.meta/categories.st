@@ -1,0 +1,14 @@
+SystemOrganization addCategory: #'Collections-Abstract'!
+SystemOrganization addCategory: #'Collections-Arrayed'!
+SystemOrganization addCategory: #'Collections-Cache'!
+SystemOrganization addCategory: #'Collections-Exceptions'!
+SystemOrganization addCategory: #'Collections-Heap'!
+SystemOrganization addCategory: #'Collections-Sequenceable'!
+SystemOrganization addCategory: #'Collections-SortFunctions'!
+SystemOrganization addCategory: #'Collections-Stack'!
+SystemOrganization addCategory: #'Collections-Streams'!
+SystemOrganization addCategory: #'Collections-Strings'!
+SystemOrganization addCategory: #'Collections-Support'!
+SystemOrganization addCategory: #'Collections-Text'!
+SystemOrganization addCategory: #'Collections-Unordered'!
+SystemOrganization addCategory: #'Collections-Weak'!

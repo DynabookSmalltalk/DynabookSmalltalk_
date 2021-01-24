@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Arrayed",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 10/20/2016 23:23",
+	"instvars" : [
+		 ],
+	"name" : "DoubleByteArray",
+	"pools" : [
+		 ],
+	"super" : "ArrayedCollection",
+	"type" : "shorts" }

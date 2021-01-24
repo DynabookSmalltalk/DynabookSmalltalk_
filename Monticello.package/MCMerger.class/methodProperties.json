@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addConflictWithOperation:" : "ab 6/2/2003 01:10",
+		"applyTo:" : "ab 6/2/2003 01:01",
+		"conflicts" : "ab 6/2/2003 01:02",
+		"isMerged" : "ab 6/5/2003 19:09",
+		"load" : "avi 10/6/2004 15:19",
+		"loadWithNameLike:" : "stephaneducasse 2/4/2006 20:47",
+		"mergedSnapshot" : "ab 6/2/2003 01:11",
+		"operations" : "ab 7/18/2003 16:34",
+		"provisions" : "avi 10/6/2004 15:19" } }

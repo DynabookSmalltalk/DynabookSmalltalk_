@@ -1,0 +1,14 @@
+{
+	"category" : "Morphic-Text Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pre 10/4/2019 16:11",
+	"instvars" : [
+		"anchoredMorph" ],
+	"name" : "TextAnchor",
+	"pools" : [
+		 ],
+	"super" : "TextAttribute",
+	"type" : "normal" }

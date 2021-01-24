@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-ParseNodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tag" ],
+	"name" : "UndeclaredVariableNode",
+	"pools" : [
+		 ],
+	"super" : "VariableNode",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 1/18/2019 12:38",
+	"instvars" : [
+		 ],
+	"name" : "EncoderForV3",
+	"pools" : [
+		 ],
+	"super" : "BytecodeEncoder",
+	"type" : "normal" }

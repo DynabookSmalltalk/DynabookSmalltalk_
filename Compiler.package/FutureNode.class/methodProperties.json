@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "eem 9/6/2009 12:33",
+		"analyseTempsWithin:rootNode:assignmentPools:" : "eem 7/17/2008 19:58",
+		"emitCodeForBlockValue:encoder:" : "eem 5/14/2008 14:52",
+		"emitCodeForEffect:encoder:" : "eem 5/14/2008 14:52",
+		"emitCodeForValue:encoder:" : "eem 5/14/2008 14:52",
+		"futureMessage:arguments:from:sourceRange:" : "ar 10/18/2005 17:23",
+		"futureSelector" : "das 1/6/2006 16:28",
+		"isFutureNode" : "eem 7/18/2008 16:22",
+		"originalSelector" : "eem 9/10/2008 15:21",
+		"receiver" : "eem 9/10/2008 15:21",
+		"receiver:selector:arguments:precedence:from:sourceRange:" : "ar 10/18/2005 17:23",
+		"sizeCodeForBlockValue:" : "eem 7/18/2008 12:28",
+		"sizeCodeForEffect:" : "eem 7/18/2008 12:27",
+		"sizeCodeForValue:" : "eem 7/18/2008 12:28" } }

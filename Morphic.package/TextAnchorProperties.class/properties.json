@@ -1,0 +1,21 @@
+{
+	"category" : "Morphic-Text Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pre 6/27/2019 18:29",
+	"instvars" : [
+		"padding",
+		"verticalAlignmentLine",
+		"verticalAlignmentMorph",
+		"consumesHorizontalSpace",
+		"relativePosition",
+		"anchorLayout",
+		"positionInDocument",
+		"morphBaselineGetter" ],
+	"name" : "TextAnchorProperties",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+A ReverseSortFunction wraps over another SortFunction so as to sort in reverse order.

@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"gripThickness" : "mt 1/4/2019 11:27",
+		"gripThickness:" : "mt 1/4/2019 11:31",
+		"handleLength" : "mt 1/4/2019 11:28",
+		"handleLength:" : "mt 1/4/2019 11:31" },
+	"instance" : {
+		"handleColor" : "mt 1/4/2019 10:42",
+		"handleColor:" : "mt 1/4/2019 10:00",
+		"handleInset" : "mt 1/4/2019 10:07",
+		"handleInset:" : "mt 1/4/2019 10:08",
+		"handlesMouseDown:" : "jrp 7/5/2005 21:37",
+		"handlesMouseOver:" : "jrp 7/5/2005 21:37",
+		"initialize" : "md 2/24/2006 23:01",
+		"mouseDown:" : "mt 1/4/2019 11:51",
+		"mouseEnter:" : "mt 1/4/2019 11:51",
+		"mouseLeave:" : "mt 1/4/2019 11:51",
+		"referencePoint" : "mt 1/4/2019 11:51",
+		"referencePoint:" : "mt 4/14/2015 08:39",
+		"resizeCursor" : "mt 1/4/2019 10:02",
+		"setDefaultColors" : "mt 1/4/2019 10:04",
+		"setInverseColors" : "mt 1/4/2019 10:04",
+		"showHandle" : "mt 1/4/2019 09:49",
+		"showHandle:" : "mt 1/4/2019 09:49" } }

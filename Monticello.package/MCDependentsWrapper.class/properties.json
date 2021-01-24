@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MCDependentsWrapper",
+	"pools" : [
+		 ],
+	"super" : "ListItemWrapper",
+	"type" : "normal" }

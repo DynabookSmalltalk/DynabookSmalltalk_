@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"extension" : "avi 1/20/2004 00:17" },
+	"instance" : {
+		"addDefinitionsFromDoit:" : "ul 12/12/2009 14:09",
+		"categoryFromDoIt:" : "avi 1/20/2004 00:02",
+		"classDefinitionFrom:" : "dtl 12/27/2017 23:34",
+		"classInstVarNamesFor:" : "stephaneducasse 2/4/2006 20:47",
+		"commentFor:" : "avi 2/10/2004 14:52",
+		"commentStampFor:" : "avi 3/8/2004 21:09",
+		"compiledCodeClassNames" : "dtl 12/27/2017 23:33",
+		"loadDefinitions" : "jr 2/11/2017 17:34",
+		"methodDefinitionsFor:" : "avi 3/3/2004 15:23",
+		"readStream" : "avi 1/21/2004 14:21",
+		"systemOrganizationFromRecords:" : "avi 1/20/2004 00:15",
+		"traitDefinitionFrom:" : "jr 2/11/2017 17:29",
+		"typeOfSubclass:" : "nice 10/20/2016 21:37" } }

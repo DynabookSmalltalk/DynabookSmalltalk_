@@ -1,0 +1,19 @@
+{
+	"category" : "Monticello-Repositories",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"UseSharedWebClientInstance" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"location",
+		"user",
+		"password",
+		"readerCache",
+		"indexed",
+		"webClient" ],
+	"name" : "MCHttpRepository",
+	"pools" : [
+		 ],
+	"super" : "MCFileBasedRepository",
+	"type" : "normal" }

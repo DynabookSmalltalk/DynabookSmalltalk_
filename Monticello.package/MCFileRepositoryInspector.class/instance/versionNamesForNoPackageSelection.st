@@ -1,0 +1,3 @@
+private
+versionNamesForNoPackageSelection
+	^ self allVersionNames

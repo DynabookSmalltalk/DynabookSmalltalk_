@@ -1,0 +1,5 @@
+CompiledBlock instances are blocks suitable for interpretation by the virtual machine.  They are a specialization of CompiledCode.  This requires both bytecode set and compiler support.  The V3 bytecode (EncoderForV3PlusClosures) does not provide support for CompiledBlock.  The SistaV1 set does (EncoderForSistaV1).
+
+The last literal in a CompiledBlock is reserved for a reference to its enclosing CompiledBlock or CompiledMethod.  Super sends in CompiledBlocks must use the directed super send bytecode.  
+
+By convention the penultimate literal of a method is either its selector or an instance of AdditionalMethodState.  AdditionalMethodState may be used to add instance variables to a method, albeit ones held in the method's AdditionalMethodState.  Subclasses of CompiledBlock that want to add state should subclass AdditionalMethodState to add the state they want, and implement methodPropertiesClass on the class side of the CompiledBlock subclass to answer the specialized subclass of AdditionalMethodState.  Enterprising programmers are encouraged to try and implement this support automatically through suitable modifications to the compiler and class builder.

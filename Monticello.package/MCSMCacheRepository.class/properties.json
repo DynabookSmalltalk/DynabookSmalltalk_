@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Repositories",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nk 1/23/2004 09:57",
+	"instvars" : [
+		"smCache" ],
+	"name" : "MCSMCacheRepository",
+	"pools" : [
+		 ],
+	"super" : "MCFileBasedRepository",
+	"type" : "normal" }

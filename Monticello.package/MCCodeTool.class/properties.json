@@ -1,0 +1,15 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nk 11/10/2003 22:00",
+	"instvars" : [
+		"items",
+		"environmentInDisplayingImage" ],
+	"name" : "MCCodeTool",
+	"pools" : [
+		 ],
+	"super" : "MCTool",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+accessing
+positionInDocument
+
+	^ positionInDocument

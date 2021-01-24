@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"mergeVersion:" : "bf 12/5/2004 12:35",
+		"new" : "avi 2/13/2004 01:41" },
+	"instance" : {
+		"addVersion:" : "nice 12/27/2009 03:11",
+		"initialize" : "abc 2/13/2004 15:50",
+		"merge" : "abc 2/13/2004 17:15",
+		"mergeWithNameLike:" : "bf 12/5/2004 12:32",
+		"resolveConflicts" : "bf 4/26/2005 14:29" } }

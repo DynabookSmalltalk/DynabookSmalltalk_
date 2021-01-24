@@ -1,0 +1,4 @@
+storing
+storeVersion: aMCVersionOrConfiguration
+	self basicStoreVersion: (self prepareVersionForStorage: aMCVersionOrConfiguration).
+	self sendNotificationsForVersion: aMCVersionOrConfiguration

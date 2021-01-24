@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Stack",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"element" ],
+	"name" : "StackLink",
+	"pools" : [
+		 ],
+	"super" : "Link",
+	"type" : "normal" }

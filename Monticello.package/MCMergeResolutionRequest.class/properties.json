@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Versioning",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"merger" ],
+	"name" : "MCMergeResolutionRequest",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

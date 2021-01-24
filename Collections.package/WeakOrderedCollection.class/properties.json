@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Weak",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "WeakOrderedCollection",
+	"pools" : [
+		 ],
+	"super" : "OrderedCollection",
+	"type" : "normal" }

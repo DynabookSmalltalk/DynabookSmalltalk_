@@ -1,0 +1,3 @@
+private-files
+allFileNames
+	self subclassResponsibility

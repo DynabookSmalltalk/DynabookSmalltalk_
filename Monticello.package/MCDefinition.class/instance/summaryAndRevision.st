@@ -1,0 +1,3 @@
+printing
+summaryAndRevision
+	^self summary

@@ -1,0 +1,3 @@
+testing
+isResolved
+	^ chooseRemote notNil

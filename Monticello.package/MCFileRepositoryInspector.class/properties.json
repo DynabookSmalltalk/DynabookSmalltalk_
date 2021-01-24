@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"allVersionNames" ],
+	"name" : "MCFileRepositoryInspector",
+	"pools" : [
+		 ],
+	"super" : "MCRepositoryInspector",
+	"type" : "normal" }

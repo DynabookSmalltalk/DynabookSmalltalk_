@@ -1,0 +1,26 @@
+{
+	"category" : "Morphic-Widgets",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "mt 10/13/2019 19:44",
+	"instvars" : [
+		"listItems",
+		"listIcons",
+		"listFilterOffsets",
+		"font",
+		"selectedRow",
+		"selectedRows",
+		"preSelectedRow",
+		"listSource",
+		"maxWidth",
+		"columnIndex",
+		"iconExtent",
+		"backgroundColor",
+		"showFilter" ],
+	"name" : "LazyListMorph",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

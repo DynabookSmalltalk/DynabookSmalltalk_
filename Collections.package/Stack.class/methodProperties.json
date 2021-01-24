@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"errorEmptyStack" : "dc 7/25/2005 10:05",
+		"initialize" : "dc 7/25/2005 11:39",
+		"isEmpty" : "dc 7/25/2005 10:05",
+		"linkedList" : "dc 7/25/2005 10:20",
+		"notEmptyCheck" : "dc 7/25/2005 10:05",
+		"pop" : "dc 7/24/2005 16:16",
+		"postCopy" : "nice 10/5/2009 08:52",
+		"push:" : "dc 7/25/2005 10:22",
+		"size" : "dc 7/25/2005 10:04",
+		"top" : "sd 3/25/2006 15:05" } }

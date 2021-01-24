@@ -1,0 +1,4 @@
+accessing
+actualClassIn: anEnvironment
+
+	^nil

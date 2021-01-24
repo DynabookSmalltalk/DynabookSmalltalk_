@@ -1,0 +1,4 @@
+sizing
+initialize
+
+	self initializeGoodPrimes

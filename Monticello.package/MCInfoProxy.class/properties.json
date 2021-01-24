@@ -1,0 +1,16 @@
+{
+	"category" : "Monticello-Repositories",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "cmm 8/12/2013 21:51",
+	"instvars" : [
+		"info",
+		"repository",
+		"workingCopy" ],
+	"name" : "MCInfoProxy",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

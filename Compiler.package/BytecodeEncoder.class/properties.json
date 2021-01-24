@@ -1,0 +1,18 @@
+{
+	"category" : "Compiler-Kernel",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 1/10/2018 17:28",
+	"instvars" : [
+		"stream",
+		"position",
+		"rootNode",
+		"blockExtentsToLocals",
+		"blockMethod" ],
+	"name" : "BytecodeEncoder",
+	"pools" : [
+		 ],
+	"super" : "Encoder",
+	"type" : "normal" }

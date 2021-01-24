@@ -1,0 +1,15 @@
+{
+	"category" : "Collections-Strings",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"NewSymbols",
+		"SymbolTable" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "Symbol",
+	"pools" : [
+		 ],
+	"super" : "String",
+	"type" : "normal" }

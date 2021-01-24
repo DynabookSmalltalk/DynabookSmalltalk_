@@ -1,0 +1,3 @@
+packages
+allPackageNames
+	self subclassResponsibility

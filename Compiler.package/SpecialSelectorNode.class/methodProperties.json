@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"emitCode:args:encoder:super:" : "eem 1/6/2018 12:16",
+		"forSuperSend" : "eem 1/6/2018 12:59",
+		"invalidSuperSendError" : "eem 1/6/2018 12:15",
+		"resetForBlockGeneration" : "eem 1/6/2018 13:10",
+		"sizeCode:args:super:" : "eem 1/6/2018 12:16" } }

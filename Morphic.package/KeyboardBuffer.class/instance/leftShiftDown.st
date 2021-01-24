@@ -1,0 +1,3 @@
+testing
+leftShiftDown
+	^ event shiftPressed

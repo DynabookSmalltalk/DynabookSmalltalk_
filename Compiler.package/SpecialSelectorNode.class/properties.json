@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-ParseNodes",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 8/5/2014 20:18",
+	"instvars" : [
+		 ],
+	"name" : "SpecialSelectorNode",
+	"pools" : [
+		 ],
+	"super" : "SelectorNode",
+	"type" : "normal" }

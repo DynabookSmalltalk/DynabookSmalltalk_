@@ -1,0 +1,3 @@
+testing
+isTextIndent
+	^ false

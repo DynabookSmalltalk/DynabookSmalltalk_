@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "eem 9/6/2009 12:35",
+		"analyseTempsWithin:rootNode:assignmentPools:" : "eem 7/24/2009 09:44",
+		"asReturnNode" : "",
+		"code" : "",
+		"emitCodeForReturn:encoder:" : "eem 01/07/2018 18:41",
+		"emitCodeForValue:encoder:" : "eem 01/07/2018 18:41",
+		"expr" : "yo 8/2/2004 17:21",
+		"expr:" : "",
+		"expr:encoder:sourceRange:" : "",
+		"isReturnSelf" : "",
+		"isSpecialConstant" : "",
+		"isVariableReference" : "",
+		"printOn:indent:" : "eem 5/6/2008 14:18",
+		"printWithClosureAnalysisOn:indent:" : "eem 6/2/2008 11:49",
+		"sizeCodeForReturn:" : "eem 5/14/2008 14:52",
+		"sizeCodeForValue:" : "eem 5/14/2008 14:52" } }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:" : "cmm 3/3/2011 14:19" },
+	"instance" : {
+		"=" : "cmm 3/12/2011 11:48",
+		"asMCVersionName" : "cmm 3/3/2011 14:33",
+		"author" : "ul 3/23/2011 04:55",
+		"baseVersionName" : "bf 2/24/2012 15:58",
+		"hash" : "cmm 3/4/2011 10:36",
+		"isValid" : "cmm 4/24/2011 20:04",
+		"packageAndBranchName" : "bf 2/24/2012 13:20",
+		"packageName" : "bf 2/24/2012 13:22",
+		"species" : "cmm 3/4/2011 10:12",
+		"versionName" : "ul 5/4/2013 00:02",
+		"versionNumber" : "bf 7/4/2012 14:55" } }

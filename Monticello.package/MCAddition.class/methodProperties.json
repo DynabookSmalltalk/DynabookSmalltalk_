@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"of:" : "cwp 11/27/2002 10:03" },
+	"instance" : {
+		"=" : "topa 9/3/2014 14:10",
+		"applyTo:" : "ab 5/24/2003 16:11",
+		"baseDefinition" : "ab 6/1/2003 13:09",
+		"definition" : "cwp 11/27/2002 09:32",
+		"fromSource" : "ab 7/18/2003 16:45",
+		"hash" : "topa 9/3/2014 14:10",
+		"intializeWithDefinition:" : "cwp 11/27/2002 10:01",
+		"inverse" : "ab 8/22/2003 02:26",
+		"isAddition" : "cwp 11/28/2002 07:22",
+		"isClassPatch" : "nk 2/25/2005 17:28",
+		"sourceString" : "nk 2/23/2005 18:39",
+		"summary" : "ab 5/13/2003 12:18",
+		"targetClass" : "nk 2/23/2005 18:17",
+		"targetDefinition" : "ab 6/1/2003 13:09",
+		"toSource" : "ab 7/18/2003 16:45" } }

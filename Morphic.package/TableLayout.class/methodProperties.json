@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"computeCellArrangement:in:horizontal:target:" : "mt 8/21/2019 16:46",
+		"computeCellSizes:in:horizontal:" : "mt 8/21/2019 10:02",
+		"computeExtraSpacing:in:horizontal:target:" : "aoy 2/15/2003 20:49",
+		"computeGlobalCellArrangement:in:horizontal:wrap:spacing:" : "mt 8/21/2019 17:05",
+		"flushLayoutCache" : "ar 1/27/2001 14:40",
+		"indexForInserting:at:in:" : "aoy 2/17/2003 01:22",
+		"indexForInserting:inList:horizontal:target:" : "nice 12/27/2009 03:11",
+		"isTableLayout" : "ar 10/29/2000 01:29",
+		"layout:in:" : "aoy 2/17/2003 01:23",
+		"layoutLeftToRight:in:" : "mt 10/8/2019 09:14",
+		"layoutTopToBottom:in:" : "mt 10/8/2019 09:15",
+		"minExtentHorizontal:" : "mt 8/21/2019 09:53",
+		"minExtentOf:in:" : "gm 2/28/2003 01:43",
+		"minExtentVertical:" : "mt 8/21/2019 09:53",
+		"placeCells:in:horizontal:target:" : "mt 10/8/2019 09:16" } }

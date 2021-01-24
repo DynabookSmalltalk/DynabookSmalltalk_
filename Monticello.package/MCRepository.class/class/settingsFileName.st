@@ -1,0 +1,3 @@
+external settings
+settingsFileName
+	^ 'mcSettings'

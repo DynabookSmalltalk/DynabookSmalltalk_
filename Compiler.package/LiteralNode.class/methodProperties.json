@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"accept:" : "eem 9/6/2009 12:34",
+		"emitCodeForValue:encoder:" : "eem 8/12/2017 15:26",
+		"eval" : "tk 8/4/1999 17:35",
+		"isConstantNumber" : "",
+		"isLiteralNode" : "ul 11/23/2010 13:06",
+		"isSpecialConstant" : "",
+		"literalValue" : "",
+		"name:key:index:type:" : "eem 5/14/2008 09:30",
+		"printOn:indent:" : "eem 1/7/2018 18:51",
+		"printWithClosureAnalysisOn:indent:" : "eem 6/2/2008 11:47",
+		"reserve:" : "eem 4/3/2013 13:34",
+		"resetForBlockGeneration" : "eem 1/6/2018 13:10",
+		"sizeCodeForValue:" : "eem 8/12/2017 15:28" } }

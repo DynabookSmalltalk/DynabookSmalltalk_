@@ -1,0 +1,14 @@
+{
+	"category" : "Collections-Streams",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pre 4/30/2018 12:13",
+	"instvars" : [
+		 ],
+	"name" : "QEncodingMimeConverter",
+	"pools" : [
+		 ],
+	"super" : "QuotedPrintableMimeConverter",
+	"type" : "normal" }

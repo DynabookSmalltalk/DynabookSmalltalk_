@@ -1,0 +1,3 @@
+accessing
+load
+	Cursor wait showWhile: [self version load]

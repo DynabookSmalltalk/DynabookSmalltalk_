@@ -1,0 +1,18 @@
+{
+	"category" : "Collections-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Ascii",
+		"CrLf",
+		"NonAscii",
+		"NonSeparators",
+		"Separators" ],
+	"commentStamp" : "nice 11/17/2019 12:26",
+	"instvars" : [
+		"byteArrayMap" ],
+	"name" : "CharacterSet",
+	"pools" : [
+		 ],
+	"super" : "Collection",
+	"type" : "normal" }

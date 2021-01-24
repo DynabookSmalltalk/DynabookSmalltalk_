@@ -1,0 +1,3 @@
+resolving 
+chooseLocal
+	chooseRemote := false

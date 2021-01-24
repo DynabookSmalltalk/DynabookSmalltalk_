@@ -1,0 +1,3 @@
+scanning
+nextString
+	^ stream nextDelimited: $'

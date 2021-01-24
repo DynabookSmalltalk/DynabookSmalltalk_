@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"definitions:" : "ul 10/3/2018 00:40" },
+	"instance" : {
+		"add:" : "ul 10/22/2018 22:52",
+		"addAll:" : "ul 10/22/2018 22:52",
+		"definitionLike:ifPresent:ifAbsent:" : "ul 10/22/2018 22:52",
+		"definitions" : "ul 10/22/2018 22:53",
+		"definitionsDo:" : "ul 10/17/2018 19:25",
+		"initialize" : "ul 10/3/2018 00:41",
+		"initialize:" : "ul 10/22/2018 22:53",
+		"remove:" : "ul 10/22/2018 22:53" } }

@@ -1,0 +1,19 @@
+{
+	"category" : "Compiler-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 9/18/2013 22:16",
+	"instvars" : [
+		"inClass",
+		"code",
+		"doitFlag",
+		"errorMessage",
+		"location",
+		"newSource" ],
+	"name" : "SyntaxErrorNotification",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

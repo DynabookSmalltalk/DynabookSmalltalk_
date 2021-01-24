@@ -1,0 +1,3 @@
+configuring
+creationTemplate
+	self subclassResponsibility.

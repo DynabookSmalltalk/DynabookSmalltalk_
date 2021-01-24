@@ -1,0 +1,15 @@
+{
+	"category" : "Monticello-Versioning",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"base",
+		"patch" ],
+	"name" : "MCDiffyVersion",
+	"pools" : [
+		 ],
+	"super" : "MCVersion",
+	"type" : "normal" }

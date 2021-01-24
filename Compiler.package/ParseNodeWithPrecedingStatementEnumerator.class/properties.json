@@ -1,0 +1,14 @@
+{
+	"category" : "Compiler-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 3/19/2019 11:55",
+	"instvars" : [
+		"precedingStatement" ],
+	"name" : "ParseNodeWithPrecedingStatementEnumerator",
+	"pools" : [
+		 ],
+	"super" : "ParseNodeEnumerator",
+	"type" : "normal" }

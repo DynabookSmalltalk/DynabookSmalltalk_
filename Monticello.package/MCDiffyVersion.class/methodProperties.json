@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"baseNameFrom:" : "bf 5/30/2005 18:45",
+		"nameForVer:base:" : "bf 4/11/2017 13:18",
+		"package:info:dependencies:baseInfo:patch:" : "avi 2/13/2004 23:07",
+		"package:info:snapshot:dependencies:baseVersion:" : "avi 2/13/2004 23:06",
+		"verNameFrom:" : "bf 5/30/2005 18:19" },
+	"instance" : {
+		"baseInfo" : "avi 2/13/2004 23:17",
+		"baseSnapshot" : "fbs 6/9/2011 20:05",
+		"canOptimizeLoading" : "bf 5/23/2005 15:42",
+		"fileName" : "cmm 3/3/2011 15:00",
+		"fileOutOn:" : "cmm 11/22/2013 15:19",
+		"initializeWithPackage:info:dependencies:baseInfo:patch:" : "avi 2/19/2004 20:55",
+		"isDiffy" : "avi 2/13/2004 23:24",
+		"patch" : "avi 2/13/2004 23:17",
+		"snapshot" : "avi 2/13/2004 22:47",
+		"summary" : "avi 2/19/2004 22:03",
+		"writerClass" : "avi 2/13/2004 23:17" } }

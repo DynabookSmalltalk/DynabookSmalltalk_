@@ -1,0 +1,3 @@
+class initialization
+browseBranchedVersionsSeparately: aBoolean
+	BrowseBranchedVersionsSeparately := aBoolean
