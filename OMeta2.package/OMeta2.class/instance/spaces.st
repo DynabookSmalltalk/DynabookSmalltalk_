@@ -1,0 +1,4 @@
+rules
+spaces =
+
+	space*

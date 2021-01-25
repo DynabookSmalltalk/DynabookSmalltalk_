@@ -1,0 +1,14 @@
+{
+	"category" : "Graphics-External-Ffenestri",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "UnixX11WindowProxy",
+	"pools" : [
+		 ],
+	"super" : "HostWindowProxy",
+	"type" : "normal" }

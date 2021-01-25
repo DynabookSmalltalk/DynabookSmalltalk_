@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"used" ],
+	"name" : "OM2Failer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

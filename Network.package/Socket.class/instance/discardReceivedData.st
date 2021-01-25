@@ -1,4 +1,4 @@
-receiving
+sending-receiving
 discardReceivedData
 	"Discard any data received up until now, and return the number of bytes discarded."
 

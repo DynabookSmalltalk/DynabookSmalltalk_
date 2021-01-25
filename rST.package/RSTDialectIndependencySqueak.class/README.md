@@ -1,0 +1,1 @@
+Implementation for Squeak of all RSTDialectIndependency protocol

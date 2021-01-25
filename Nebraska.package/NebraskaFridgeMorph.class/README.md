@@ -1,0 +1,1 @@
+EToyFridgeMorph new openInWorld

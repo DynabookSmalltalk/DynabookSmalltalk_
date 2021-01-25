@@ -1,0 +1,22 @@
+{
+	"category" : "Nebraska-Network-ObjectSocket",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ls 2/10/2005 21:27",
+	"instvars" : [
+		"socket",
+		"outBuf",
+		"outBufIndex",
+		"outBufSize",
+		"inBuf",
+		"inBufIndex",
+		"inBufLastIndex",
+		"outObjects",
+		"inObjects" ],
+	"name" : "ObjectSocket",
+	"pools" : [
+		 ],
+	"super" : "Stream",
+	"type" : "normal" }

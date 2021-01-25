@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"onConnection:" : "ls 3/25/2000 22:28" },
+	"instance" : {
+		"backlog" : "RAA 7/31/2000 23:59",
+		"canvas" : "ls 3/25/2000 22:27",
+		"convertToBuffered" : "RAA 11/8/2000 15:05",
+		"currentStatusString" : "mir 6/17/2007 20:06",
+		"destroy" : "ar 10/26/2000 14:28",
+		"extent:depth:" : "ls 4/9/2000 14:43",
+		"hand" : "ls 3/25/2000 22:27",
+		"initialize:" : "tfel 8/30/2016 11:45",
+		"isConnected" : "ls 3/25/2000 22:25",
+		"processIO" : "ls 3/25/2000 22:25" } }

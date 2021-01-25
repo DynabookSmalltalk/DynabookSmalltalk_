@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addDependent:" : "dgd 3/11/2002 22:51",
+		"breakDependents" : "dgd 3/11/2002 22:52",
+		"clearStrongDependents" : "dgd 3/11/2002 22:52",
+		"removeDependent:" : "dgd 3/11/2002 22:57",
+		"strongDependents" : "dgd 3/11/2002 22:52" } }

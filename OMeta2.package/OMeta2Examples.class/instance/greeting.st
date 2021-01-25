@@ -1,0 +1,2 @@
+rules
+greeting = <``howdy'' ``-ho''?>

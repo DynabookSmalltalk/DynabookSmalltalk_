@@ -1,8 +1,9 @@
 system primitives
 become: otherObject 
-	"Primitive. Swap the object pointers of the receiver and the argument.
-	 All variables in the entire system that used to point to the receiver
-	 now point to the argument, and vice-versa.
-	 Fails if either object is an immediate such as a SmallInteger."
-
-	{self} elementsExchangeIdentityWith: {otherObject}
+	"Primitive. Swap the object pointers of the receiver and the argument. 
+	All variables in the entire system that used to point to the  
+	receiver now point to the argument, and vice-versa. 
+	Fails if either object is a SmallInteger"
+otherObject isRemote ifTrue:[^ self error: 'invalid #become: (the receiver is local and the other is remote )'].
+	(Array with: self)
+		elementsExchangeIdentityWith: (Array with: otherObject)

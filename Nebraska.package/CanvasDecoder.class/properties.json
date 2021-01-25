@@ -1,0 +1,19 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CachedForms",
+		"DecodeTable" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"drawingCanvas",
+		"clipRect",
+		"transform",
+		"connection",
+		"fonts" ],
+	"name" : "CanvasDecoder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

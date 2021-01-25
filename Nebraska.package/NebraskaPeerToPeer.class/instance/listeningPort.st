@@ -1,0 +1,3 @@
+sending
+listeningPort
+	^connectionQueue portNumberOrNil

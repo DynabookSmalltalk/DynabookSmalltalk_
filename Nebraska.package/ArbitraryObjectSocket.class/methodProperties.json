@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"encodeObject:into:startingAt:" : "ls 4/25/2000 19:18",
+		"inBufSize" : "ls 2/10/2005 20:40",
+		"nextObjectLength" : "ls 4/25/2000 19:19",
+		"processInput" : "sd 11/20/2005 21:25",
+		"smartRefStreamEncode:" : "ls 4/25/2000 19:33",
+		"spaceToEncode:" : "ls 4/25/2000 19:36" } }

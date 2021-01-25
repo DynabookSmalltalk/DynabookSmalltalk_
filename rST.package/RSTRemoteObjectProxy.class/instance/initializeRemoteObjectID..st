@@ -1,0 +1,3 @@
+initialization
+initializeRemoteObjectID: aRemoteObjectID 
+	remoteObjectID _ aRemoteObjectID

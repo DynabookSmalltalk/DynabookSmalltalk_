@@ -1,0 +1,17 @@
+{
+	"category" : "rST-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 12/28/2001 23:37",
+	"instvars" : [
+		"lastKey",
+		"dictionary",
+		"mutex",
+		"onNewKey" ],
+	"name" : "KeyManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

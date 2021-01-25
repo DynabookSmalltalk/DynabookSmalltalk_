@@ -1,0 +1,17 @@
+{
+	"category" : "Nebraska-Network-ObjectSocket",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"socket1",
+		"socket2",
+		"end1",
+		"end2" ],
+	"name" : "ArbitraryObjectSocketTestCase",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }

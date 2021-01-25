@@ -1,0 +1,19 @@
+{
+	"category" : "Nebraska-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"GlobalIncomingQueue",
+		"GlobalListener",
+		"QueueSemaphore",
+		"UpdateCounter",
+		"WasListeningAtShutdown" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"listener",
+		"updateCounter" ],
+	"name" : "NebraskaListenerMorph",
+	"pools" : [
+		 ],
+	"super" : "NebraskaCommunicatorMorph",
+	"type" : "normal" }

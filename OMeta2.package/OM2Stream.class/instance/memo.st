@@ -1,0 +1,4 @@
+accessing
+memo
+
+	^ memo

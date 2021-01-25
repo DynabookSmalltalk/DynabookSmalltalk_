@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OMeta2AndOrOpt",
+	"pools" : [
+		 ],
+	"super" : "OMeta2NullOpt",
+	"type" : "normal" }

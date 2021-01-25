@@ -1,0 +1,3 @@
+naming
+systemCategoryPrefix
+	^super packageName

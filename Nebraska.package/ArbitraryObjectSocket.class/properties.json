@@ -1,0 +1,15 @@
+{
+	"category" : "Nebraska-Network-ObjectSocket",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"encodingOfLastEncodedObject",
+		"lastEncodedObject" ],
+	"name" : "ArbitraryObjectSocket",
+	"pools" : [
+		 ],
+	"super" : "ObjectSocket",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"clearStats" : "RAA 7/22/2000 08:14",
+		"newPair" : "ls 3/18/2000 13:24",
+		"stats" : "RAA 7/22/2000 08:15" },
+	"instance" : {
+		"arraysFromAssociate:" : "RAA 7/22/2000 07:47",
+		"associate:" : "ls 3/18/2000 13:28",
+		"destroy" : "RAA 7/22/2000 07:44",
+		"flush" : "ls 3/21/2000 23:40",
+		"isConnected" : "ls 3/18/2000 13:27",
+		"nextOrNil" : "RAA 7/22/2000 07:47",
+		"nextPut:" : "nice 3/19/2010 19:05",
+		"processIO" : "RAA 7/22/2000 07:48" } }

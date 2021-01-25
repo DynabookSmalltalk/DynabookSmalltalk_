@@ -1,0 +1,3 @@
+testing
+extensionMethodsForClass: aClass
+	^#()

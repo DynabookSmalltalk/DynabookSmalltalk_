@@ -1,0 +1,2 @@
+This class makes it possible to store OMeta2 using decompiled production rules, so that it can be loaded without being present first.
+It uses OM2DecompilingMethodReference to decompile OMeta2 rules on the fly while creating a source file.

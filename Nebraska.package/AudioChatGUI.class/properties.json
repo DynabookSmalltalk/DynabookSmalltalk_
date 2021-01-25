@@ -1,0 +1,29 @@
+{
+	"category" : "Nebraska-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DebugLog",
+		"LiveMessages",
+		"NewAudioMessages",
+		"PlayOnArrival" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"mycodec",
+		"myrecorder",
+		"mytargetip",
+		"myalert",
+		"playOnArrival",
+		"theConnectButton",
+		"soundBlockNumber",
+		"soundMessageID",
+		"queueForMultipleSends",
+		"transmitWhileRecording",
+		"theTalkButton",
+		"handsFreeTalking",
+		"handsFreeTalkingFlashTime" ],
+	"name" : "AudioChatGUI",
+	"pools" : [
+		 ],
+	"super" : "NebraskaCommunicatorMorph",
+	"type" : "normal" }

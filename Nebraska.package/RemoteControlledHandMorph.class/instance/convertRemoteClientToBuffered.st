@@ -1,0 +1,4 @@
+events
+convertRemoteClientToBuffered
+
+	self world convertRemoteClientToBuffered: nebraskaClient

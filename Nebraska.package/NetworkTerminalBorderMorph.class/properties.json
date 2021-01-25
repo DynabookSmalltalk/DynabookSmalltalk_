@@ -1,0 +1,14 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NetworkTerminalBorderMorph",
+	"pools" : [
+		 ],
+	"super" : "EmbeddedWorldBorderMorph",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addButtons" : "RAA 12/13/2000 08:49",
+		"bufferNebraska" : "RAA 12/13/2000 08:26",
+		"buttonBuffered" : "KR 11/14/2007 13:29",
+		"buttonQuit" : "KR 11/14/2007 13:30",
+		"buttonScale" : "KR 11/14/2007 13:28",
+		"currentNavigatorVersion" : "RAA 11/8/2000 11:47",
+		"defaultColor" : "dgd 2/16/2003 14:11",
+		"fontForButtons" : "yo 11/4/2002 21:06",
+		"nebraskaBorder:" : "RAA 11/8/2000 11:35",
+		"nebraskaTerminal:" : "RAA 12/13/2000 08:25",
+		"positionVertically" : "RAA 11/8/2000 11:44",
+		"quitNebraska" : "RAA 11/8/2000 11:47",
+		"step" : "RAA 11/8/2000 11:37",
+		"toggleFullView" : "RAA 11/8/2000 11:48",
+		"wantsToBeDroppedInto:" : "RAA 11/8/2000 11:42" } }

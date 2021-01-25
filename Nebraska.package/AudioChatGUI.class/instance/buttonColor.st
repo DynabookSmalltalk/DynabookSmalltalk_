@@ -1,0 +1,4 @@
+initialization
+buttonColor 
+
+	^Color lightBrown

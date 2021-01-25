@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"new" : "DGD 7/1/2001 15:34" },
+	"instance" : {
+		"at:" : "DGD 7/1/2001 16:42",
+		"at:ifAbsent:" : "dgd 2/26/2002 21:56",
+		"at:put:" : "dgd 2/6/2002 22:36",
+		"depurate" : "dgd 12/28/2001 23:36",
+		"hasKey:" : "dgd 2/26/2002 21:57",
+		"initialize" : "dgd 3/10/2002 16:41",
+		"initializeDictionary" : "dgd 2/26/2002 21:18",
+		"keyFor:" : "dgd 2/26/2002 21:57",
+		"newKeyFor:" : "dgd 3/10/2002 16:42",
+		"onNewKey:" : "dgd 3/10/2002 16:42",
+		"printOn:" : "dgd 12/28/2001 23:41",
+		"removeKey:" : "dgd 2/18/2002 22:28",
+		"size" : "dgd 2/26/2002 21:18" } }

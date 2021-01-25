@@ -1,0 +1,21 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"server",
+		"slowCounter",
+		"previousBacklog",
+		"lastFullUpdateTime",
+		"currentStatusString",
+		"fullDisplay",
+		"previousClients",
+		"currentBacklogString" ],
+	"name" : "NebraskaServerMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorphBob1",
+	"type" : "normal" }

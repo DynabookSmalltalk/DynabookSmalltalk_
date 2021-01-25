@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TypeTable" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "O2SqueakRecognizer",
+	"pools" : [
+		 ],
+	"super" : "OMeta2",
+	"type" : "normal" }

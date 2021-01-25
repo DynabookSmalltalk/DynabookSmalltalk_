@@ -1,0 +1,2 @@
+rules
+translate :grammarClass = trans

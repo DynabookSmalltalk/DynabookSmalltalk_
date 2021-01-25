@@ -1,0 +1,16 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"input",
+		"om2streams",
+		"haltingPoint" ],
+	"name" : "OMeta2Base",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+forgetting
+forgetEverything
+
+	om2stream forgetEverything

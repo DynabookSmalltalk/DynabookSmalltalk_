@@ -1,0 +1,15 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 1/4/2002 23:40",
+	"instvars" : [
+		"type",
+		"object" ],
+	"name" : "RSTObjectTransporter",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

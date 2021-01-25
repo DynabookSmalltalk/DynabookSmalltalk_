@@ -1,0 +1,4 @@
+rules
+name =
+
+	spaces nsName

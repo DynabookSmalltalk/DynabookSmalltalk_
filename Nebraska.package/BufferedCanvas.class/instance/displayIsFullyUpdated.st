@@ -1,0 +1,4 @@
+Nebraska/embeddedWorlds
+displayIsFullyUpdated
+
+	self checkIfTimeToDisplay

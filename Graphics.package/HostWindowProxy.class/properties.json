@@ -1,0 +1,16 @@
+{
+	"category" : "Graphics-External-Ffenestri",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"ActiveProxyClass",
+		"Registry" ],
+	"commentStamp" : "bf 1/4/2012 18:37",
+	"instvars" : [
+		"windowHandle",
+		"sourceForm" ],
+	"name" : "HostWindowProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

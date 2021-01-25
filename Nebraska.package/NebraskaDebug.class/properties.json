@@ -1,0 +1,15 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DEBUG",
+		"Details" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NebraskaDebug",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

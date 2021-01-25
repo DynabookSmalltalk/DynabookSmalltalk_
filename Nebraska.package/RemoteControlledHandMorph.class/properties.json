@@ -1,0 +1,16 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"eventDecoder",
+		"viewExtent",
+		"nebraskaClient" ],
+	"name" : "RemoteControlledHandMorph",
+	"pools" : [
+		 ],
+	"super" : "HandMorph",
+	"type" : "normal" }

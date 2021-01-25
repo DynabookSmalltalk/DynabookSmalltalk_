@@ -1,0 +1,14 @@
+{
+	"category" : "rST-Samples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 2/6/2002 23:15",
+	"instvars" : [
+		 ],
+	"name" : "RSTTesting",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

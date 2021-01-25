@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2-Info",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hmm 4/16/2010 17:08",
+	"instvars" : [
+		 ],
+	"name" : "OM2PreloadPackageInfo",
+	"pools" : [
+		 ],
+	"super" : "PackageInfo",
+	"type" : "normal" }

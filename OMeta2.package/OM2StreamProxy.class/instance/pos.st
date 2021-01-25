@@ -1,0 +1,4 @@
+accessing
+pos
+
+	^ target pos

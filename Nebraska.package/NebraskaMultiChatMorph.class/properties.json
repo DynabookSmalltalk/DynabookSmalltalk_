@@ -1,0 +1,14 @@
+{
+	"category" : "Nebraska-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetIPAddresses" ],
+	"name" : "NebraskaMultiChatMorph",
+	"pools" : [
+		 ],
+	"super" : "NebraskaChatMorph",
+	"type" : "normal" }

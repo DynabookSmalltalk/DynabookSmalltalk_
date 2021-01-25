@@ -1,0 +1,1 @@
+decode messages sent via a MorphicEventEncoder.

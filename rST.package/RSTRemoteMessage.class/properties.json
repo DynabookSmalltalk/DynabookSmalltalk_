@@ -1,0 +1,14 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 12/29/2001 22:54",
+	"instvars" : [
+		"to" ],
+	"name" : "RSTRemoteMessage",
+	"pools" : [
+		 ],
+	"super" : "Message",
+	"type" : "normal" }

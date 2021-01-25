@@ -1,0 +1,3 @@
+accessing
+isOpen
+	^windowProxy notNil

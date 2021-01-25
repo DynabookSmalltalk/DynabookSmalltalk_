@@ -1,4 +1,4 @@
-sending
+sending-receiving
 sendData: aStringOrByteArray
 	"Send all of the data in the given array, even if it requires multiple calls to send it all. Return the number of bytes sent."
 

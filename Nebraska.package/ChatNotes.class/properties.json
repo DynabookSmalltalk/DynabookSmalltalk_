@@ -1,0 +1,24 @@
+{
+	"category" : "Nebraska-Audio Chat",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"notesIndex",
+		"names",
+		"notes",
+		"recorder",
+		"player",
+		"sound",
+		"isPlaying",
+		"isRecording",
+		"isSaving",
+		"nameTextMorph" ],
+	"name" : "ChatNotes",
+	"pools" : [
+		 ],
+	"super" : "StringHolder",
+	"type" : "normal" }

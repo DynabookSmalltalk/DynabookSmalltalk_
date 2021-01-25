@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"includeInNewMorphMenu" : "RAA 8/3/2000 07:48" },
+	"instance" : {
+		"acceptableTypes" : "RAA 7/31/2000 12:42",
+		"dateAndTimeStringFrom:" : "RAA 7/31/2000 14:11",
+		"fullInfoString" : "RAA 7/31/2000 13:51",
+		"getChoice:" : "RAA 7/11/2000 12:19",
+		"initialize" : "tfel 8/30/2016 11:47",
+		"ipAddress" : "RAA 7/11/2000 09:33",
+		"ipAddress:" : "RAA 7/11/2000 09:18",
+		"lastIncomingMessageTimeString" : "RAA 7/31/2000 13:37",
+		"lastTimeChecked" : "RAA 7/31/2000 13:56",
+		"lastTimeChecked:" : "RAA 7/31/2000 13:57",
+		"lastTimeCheckedString" : "RAA 7/31/2000 14:22",
+		"latestUserName" : "RAA 7/11/2000 10:49",
+		"latestUserName:" : "RAA 7/11/2000 10:46",
+		"requestAccessOfType:" : "RAA 7/31/2000 14:09",
+		"statusReplyReceived:" : "RAA 7/31/2000 14:10",
+		"statusReplyReceivedString" : "RAA 8/1/2000 14:16",
+		"timeBetweenLastAccessAnd:" : "RAA 7/11/2000 09:38",
+		"toggleChoice:" : "RAA 7/11/2000 10:39" } }

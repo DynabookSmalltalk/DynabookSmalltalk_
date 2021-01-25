@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OMeta2Optimizer",
+	"pools" : [
+		 ],
+	"super" : "OMeta2",
+	"type" : "normal" }

@@ -1,4 +1,4 @@
-testing
+printing
 isLiteral
 
 	^true

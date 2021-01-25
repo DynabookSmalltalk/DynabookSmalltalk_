@@ -1,0 +1,21 @@
+{
+	"category" : "Nebraska-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FridgeRecipients",
+		"NewItems",
+		"TheFridgeForm",
+		"UpdateCounter" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"recipients",
+		"incomingRow",
+		"recipientRow",
+		"updateCounter",
+		"groupMode" ],
+	"name" : "NebraskaFridgeMorph",
+	"pools" : [
+		 ],
+	"super" : "NebraskaCommunicatorMorph",
+	"type" : "normal" }

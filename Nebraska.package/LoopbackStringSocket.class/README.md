@@ -1,0 +1,1 @@
+a string socket which is connected to another string sockt on the local computer.  Used mostly for testing.

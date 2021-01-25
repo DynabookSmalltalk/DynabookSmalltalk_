@@ -1,0 +1,14 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 1/27/2002 20:08",
+	"instvars" : [
+		"remoteObjectID" ],
+	"name" : "RSTRemoteObjectProxy",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

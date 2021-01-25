@@ -1,0 +1,1 @@
+This class stores all OMeta2 production rules in their original format.

@@ -1,0 +1,22 @@
+{
+	"category" : "Graphics-Text",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "pre 10/8/2019 16:16",
+	"instvars" : [
+		"lineY",
+		"foregroundColor",
+		"backgroundColor",
+		"defaultTextColor",
+		"paragraphColor",
+		"morphicOffset",
+		"ignoreColorChanges",
+		"lastDisplayableIndex",
+		"stopConditionsMustBeReset" ],
+	"name" : "DisplayScanner",
+	"pools" : [
+		 ],
+	"super" : "CharacterScanner",
+	"type" : "normal" }

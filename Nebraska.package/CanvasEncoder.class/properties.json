@@ -1,0 +1,20 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SentTypesAndSizes",
+		"SimpleCounters" ],
+	"commentStamp" : "nice 3/24/2010 07:40",
+	"instvars" : [
+		"connection",
+		"lastClipRect",
+		"lastTransform",
+		"fontCache",
+		"cachedObjects",
+		"cachingEnabled" ],
+	"name" : "CanvasEncoder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

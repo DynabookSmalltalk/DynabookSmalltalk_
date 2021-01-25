@@ -1,0 +1,18 @@
+{
+	"category" : "rST-Utilities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 2/6/2002 21:31",
+	"instvars" : [
+		"size",
+		"factory",
+		"calls",
+		"hits",
+		"values" ],
+	"name" : "Cache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

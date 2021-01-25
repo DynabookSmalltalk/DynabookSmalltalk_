@@ -1,0 +1,4 @@
+rules-lexing
+tsCharacter =
+
+	$$ char

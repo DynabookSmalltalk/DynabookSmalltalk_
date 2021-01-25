@@ -1,0 +1,16 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"head",
+		"tail",
+		"memo" ],
+	"name" : "OM2Stream",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

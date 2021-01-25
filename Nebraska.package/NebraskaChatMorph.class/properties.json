@@ -1,0 +1,19 @@
+{
+	"category" : "Nebraska-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"listener",
+		"receivingPane",
+		"myForm",
+		"recipientForm",
+		"acceptOnCR",
+		"sendingPane" ],
+	"name" : "NebraskaChatMorph",
+	"pools" : [
+		 ],
+	"super" : "NebraskaChatOrBadgeMorph",
+	"type" : "normal" }

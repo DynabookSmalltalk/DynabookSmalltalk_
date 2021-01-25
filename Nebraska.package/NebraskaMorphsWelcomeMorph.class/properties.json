@@ -1,0 +1,14 @@
+{
+	"category" : "Nebraska-Morphs",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "NebraskaMorphsWelcomeMorph",
+	"pools" : [
+		 ],
+	"super" : "NebraskaCommunicatorMorph",
+	"type" : "normal" }

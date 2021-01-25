@@ -1,0 +1,14 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RSTObjectNotFound",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"on:" : "nk 7/30/2004 18:10" },
+	"instance" : {
+		"convertRemoteClientToBuffered" : "RAA 11/8/2000 15:15",
+		"decoder:" : "ls 3/24/2000 21:53",
+		"initialize" : "ls 3/25/2000 16:44",
+		"nebraskaClient:" : "RAA 11/8/2000 15:13",
+		"needsToBeDrawn" : "RAA 12/12/2000 14:45",
+		"processEvents" : "ls 3/25/2000 16:51",
+		"queueEvent:" : "ar 10/25/2000 23:29",
+		"setViewExtent:" : "ls 3/25/2000 16:44",
+		"worldBounds" : "ls 3/25/2000 16:44" } }

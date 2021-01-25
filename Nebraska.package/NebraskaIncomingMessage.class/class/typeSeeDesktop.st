@@ -1,0 +1,4 @@
+message types
+typeSeeDesktop
+
+	^'seedesktop'

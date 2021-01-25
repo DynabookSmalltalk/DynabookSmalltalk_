@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"allTypes" : "yo 9/24/2008 00:44",
+		"forType:send:to:" : "RAA 8/4/2000 13:21",
+		"handleNewChatFrom:sentBy:ipAddress:" : "tfel 8/30/2016 11:44",
+		"handleNewFridgeMorphFrom:sentBy:ipAddress:" : "tfel 8/30/2016 11:40",
+		"handleNewMorphFrom:sentBy:ipAddress:" : "ul 4/27/2017 00:41",
+		"handleNewMultiChatFrom:sentBy:ipAddress:" : "tfel 8/30/2016 11:44",
+		"handleNewSeeDesktopFrom:sentBy:ipAddress:" : "tfel 8/30/2016 11:44",
+		"handleNewStatusReplyFrom:sentBy:ipAddress:" : "tfel 8/30/2016 11:46",
+		"handleNewStatusRequestFrom:sentBy:ipAddress:" : "tfel 8/30/2016 11:44",
+		"initializeMessageHandlers" : "RAA 8/17/2000 07:52",
+		"messageHandlers" : "RAA 8/4/2000 13:35",
+		"newObjectFromStream:" : "RAA 8/4/2000 13:36",
+		"registerType:" : "RAA 11/13/2000 14:39",
+		"typeAudioChat" : "RAA 8/4/2000 13:20",
+		"typeAudioChatContinuous" : "RAA 8/5/2000 19:21",
+		"typeFridge" : "RAA 8/4/2000 11:49",
+		"typeKeyboardChat" : "RAA 8/4/2000 11:46",
+		"typeMorph" : "RAA 8/4/2000 11:59",
+		"typeMultiChat" : "RAA 8/17/2000 07:41",
+		"typeSeeDesktop" : "RAA 8/4/2000 11:56",
+		"typeStatusReply" : "RAA 8/4/2000 11:53",
+		"typeStatusRequest" : "RAA 8/4/2000 11:51",
+		"unregisterType:" : "RAA 11/13/2000 14:39" },
+	"instance" : {
+		"incomingMessgage:fromIPAddress:" : "tfel 8/30/2016 11:46" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2-Info",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "hmm 5/24/2010 13:15",
+	"instvars" : [
+		 ],
+	"name" : "OM2DecompilingMethodReference",
+	"pools" : [
+		 ],
+	"super" : "MethodReference",
+	"type" : "normal" }

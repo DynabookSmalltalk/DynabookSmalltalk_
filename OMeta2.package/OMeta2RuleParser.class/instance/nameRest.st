@@ -1,0 +1,4 @@
+rules
+nameRest =
+
+	nameFirst | digit

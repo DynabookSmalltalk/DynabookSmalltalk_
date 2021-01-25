@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OMeta2Compiler",
+	"pools" : [
+		 ],
+	"super" : "Compiler",
+	"type" : "normal" }

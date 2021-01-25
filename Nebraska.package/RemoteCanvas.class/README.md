@@ -1,0 +1,1 @@
+A canvas which draws to a terminal across the network.  Note that multiple RemoteCanvas's might exist for a single MREncoder, each having different transformations and clipping rectangles.

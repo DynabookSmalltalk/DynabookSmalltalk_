@@ -1,0 +1,1 @@
+A filter which translates MorphEvent's into StringArray's.

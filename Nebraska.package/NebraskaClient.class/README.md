@@ -1,0 +1,1 @@
+A client that has connected to a Nebraska server, seen from the server's point of view.

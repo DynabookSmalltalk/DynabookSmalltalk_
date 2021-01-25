@@ -1,0 +1,1 @@
+Decodes commands encoded by MREncoder, and draws them onto a canvas.

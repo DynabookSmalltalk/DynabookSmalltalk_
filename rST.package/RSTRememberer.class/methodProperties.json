@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"new" : "dgd 2/24/2002 20:25" },
+	"instance" : {
+		"allNamed:" : "dgd 2/25/2002 00:18",
+		"forget:named:" : "dgd 2/25/2002 00:00",
+		"forgetAllNamed:" : "dgd 2/25/2002 00:27",
+		"initialize" : "dgd 2/25/2002 00:45",
+		"maintenance" : "dgd 3/11/2002 22:28",
+		"remember:forSeconds:naming:" : "dgd 3/11/2002 22:28",
+		"rememberForEver:naming:" : "dgd 2/25/2002 00:01" } }

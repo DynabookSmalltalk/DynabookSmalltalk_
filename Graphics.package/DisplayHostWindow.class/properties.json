@@ -1,0 +1,17 @@
+{
+	"category" : "Graphics-External-Ffenestri",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"windowProxy",
+		"title",
+		"windowType",
+		"eventQueue" ],
+	"name" : "DisplayHostWindow",
+	"pools" : [
+		"EventSensorConstants" ],
+	"super" : "DisplayScreen",
+	"type" : "normal" }

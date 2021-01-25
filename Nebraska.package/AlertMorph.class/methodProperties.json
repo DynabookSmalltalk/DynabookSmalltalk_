@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"canHaveFillStyles" : "TBP 3/5/2000 13:47",
+		"color:" : "TBP 3/5/2000 13:47",
+		"defaultBorderWidth" : "dgd 3/7/2003 14:11",
+		"defaultColor" : "dgd 3/7/2003 14:11",
+		"initialize" : "dgd 3/7/2003 14:11",
+		"onColor" : "mir 8/31/2004 15:47",
+		"socketOwner:" : "RAA 8/2/2000 10:39",
+		"step" : "mir 8/31/2004 15:47",
+		"stepTime" : "TBP 3/5/2000 13:47" } }

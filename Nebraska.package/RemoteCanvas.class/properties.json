@@ -1,0 +1,18 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"innerClipRect",
+		"outerClipRect",
+		"transform",
+		"connection",
+		"shadowColor" ],
+	"name" : "RemoteCanvas",
+	"pools" : [
+		 ],
+	"super" : "Canvas",
+	"type" : "normal" }

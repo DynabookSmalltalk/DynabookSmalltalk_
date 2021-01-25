@@ -1,0 +1,1 @@
+This is a socket which exchanges medium-level packets instead of low-level bytes.  This class is abstract; see the subclasses for particular kinds of medium-level packets which can be used.

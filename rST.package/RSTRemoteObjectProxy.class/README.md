@@ -1,0 +1,1 @@
+I'm a proxy to a remote object, all mesages that I'll receive I'll send them to the remoteObject

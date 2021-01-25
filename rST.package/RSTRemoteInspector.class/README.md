@@ -1,0 +1,1 @@
+I'm the Inspector for the Remote Objects

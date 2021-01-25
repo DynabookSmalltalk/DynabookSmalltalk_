@@ -1,0 +1,15 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 12/23/2001 19:02",
+	"instvars" : [
+		"brokerID",
+		"objectID" ],
+	"name" : "RSTRemoteObjectID",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"basicTail" : "warf 2/26/2009 11:04",
+		"forgetEverything" : "warf 2/26/2009 11:38",
+		"head" : "warf 2/16/2009 11:35",
+		"initHead:tail:" : "warf 2/16/2009 13:38",
+		"initialize" : "warf 2/16/2009 11:34",
+		"inputSpecies" : "warf 2/19/2009 23:13",
+		"memo" : "warf 2/16/2009 14:13",
+		"pos" : "warf 2/20/2009 14:51",
+		"printOn:" : "warf 2/26/2009 11:05",
+		"tail" : "warf 2/16/2009 11:35",
+		"transitiveForgetEverything" : "warf 2/26/2009 11:40" } }

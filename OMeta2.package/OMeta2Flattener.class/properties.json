@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ws" ],
+	"name" : "OMeta2Flattener",
+	"pools" : [
+		 ],
+	"super" : "OMeta2",
+	"type" : "normal" }

@@ -1,0 +1,2 @@
+rules
+setHelped = [didSomething := true]

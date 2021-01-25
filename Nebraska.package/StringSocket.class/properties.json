@@ -1,0 +1,27 @@
+{
+	"category" : "Nebraska-Network-ObjectSocket",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MaxRatesSeen",
+		"RecentSendHistory",
+		"RunningSendCount" ],
+	"commentStamp" : "ls 8/4/2004 15:15",
+	"instvars" : [
+		"numStringsInNextArray",
+		"stringsForNextArray",
+		"nextStringSize",
+		"files",
+		"startTime",
+		"stringCounter",
+		"socketWriterProcess",
+		"outputQueue",
+		"bytesInOutputQueue",
+		"extraUnsentBytes",
+		"transmissionError",
+		"readBuffer" ],
+	"name" : "StringSocket",
+	"pools" : [
+		 ],
+	"super" : "ObjectSocket",
+	"type" : "normal" }

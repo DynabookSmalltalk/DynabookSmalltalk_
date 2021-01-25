@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actionDownSelector:" : "Tbp 4/11/2000 16:25",
+		"actionUpSelector:" : "Tbp 4/11/2000 16:27",
+		"doButtonDownAction" : "dgd 2/22/2003 18:40",
+		"doButtonUpAction" : "dgd 2/22/2003 18:40",
+		"labelDown:" : "Tbp 4/11/2000 16:31",
+		"labelUp:" : "Tbp 4/11/2000 16:32",
+		"mouseDown:" : "ar 6/4/2001 00:40",
+		"mouseUp:" : "RAA 8/6/2000 18:37" } }

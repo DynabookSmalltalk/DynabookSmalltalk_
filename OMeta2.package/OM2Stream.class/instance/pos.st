@@ -1,0 +1,4 @@
+accessing
+pos
+
+	^ -1

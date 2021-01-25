@@ -1,0 +1,15 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 2/25/2002 00:03",
+	"instvars" : [
+		"remembered",
+		"mutex" ],
+	"name" : "RSTRememberer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

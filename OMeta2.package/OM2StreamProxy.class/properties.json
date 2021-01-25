@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"target" ],
+	"name" : "OM2StreamProxy",
+	"pools" : [
+		 ],
+	"super" : "OM2Stream",
+	"type" : "normal" }

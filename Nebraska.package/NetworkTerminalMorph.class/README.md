@@ -1,0 +1,1 @@
+A morph used to communicate with a remote image.  It sends all mouse/keyboard events to the remote side, and it displays canvas commands that are sent back.

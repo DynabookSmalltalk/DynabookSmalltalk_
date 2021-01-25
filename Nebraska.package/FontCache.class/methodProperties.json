@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"new:" : "ls 3/27/2000 17:33" },
+	"instance" : {
+		"fontAt:" : "ls 3/27/2000 17:28",
+		"includesFont:" : "ls 3/27/2000 17:25",
+		"indexForNewFont:" : "ls 3/27/2000 17:28",
+		"indexOf:" : "ls 3/27/2000 17:25",
+		"initialize:" : "ls 3/27/2000 17:23" } }

@@ -1,0 +1,4 @@
+message types
+typeKeyboardChat
+
+	^'chat'

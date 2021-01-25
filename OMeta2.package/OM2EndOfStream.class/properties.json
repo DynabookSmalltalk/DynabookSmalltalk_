@@ -1,0 +1,15 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stream",
+		"pos" ],
+	"name" : "OM2EndOfStream",
+	"pools" : [
+		 ],
+	"super" : "OM2Stream",
+	"type" : "normal" }

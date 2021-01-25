@@ -1,0 +1,15 @@
+{
+	"category" : "rST-Samples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"eMail" ],
+	"name" : "RSTPerson",
+	"pools" : [
+		 ],
+	"super" : "RSTModel",
+	"type" : "normal" }

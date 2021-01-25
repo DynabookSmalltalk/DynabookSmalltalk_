@@ -1,0 +1,14 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 3/11/2002 22:53",
+	"instvars" : [
+		"strongDependents" ],
+	"name" : "RSTModel",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }

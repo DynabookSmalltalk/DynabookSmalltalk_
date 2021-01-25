@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:" : "RAA 7/20/2000 15:47" },
+	"instance" : {
+		"addToInBuf:" : "sd 11/20/2005 21:26",
+		"destroy" : "RAA 8/2/2000 12:01",
+		"initialize:" : "sd 11/20/2005 21:26",
+		"isConnected" : "RAA 7/20/2000 15:10",
+		"next" : "ls 4/25/2000 18:48",
+		"nextOrNil" : "ls 4/25/2000 18:48",
+		"nextPut:" : "nice 3/19/2010 19:06",
+		"processIO" : "ls 1/8/1999 16:14",
+		"processOutput" : "sd 11/20/2005 21:26",
+		"remoteAddress" : "RAA 8/4/2000 15:38",
+		"shrinkInBuf" : "sd 11/20/2005 21:26" } }

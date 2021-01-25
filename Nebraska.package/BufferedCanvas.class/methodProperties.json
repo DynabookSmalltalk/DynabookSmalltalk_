@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asBufferedCanvas" : "RAA 11/8/2000 15:04",
+		"checkIfTimeToDisplay" : "RAA 11/7/2000 15:03",
+		"clipBy:during:" : "RAA 7/31/2000 20:44",
+		"clipRect" : "RAA 11/7/2000 13:04",
+		"connection:clipRect:transform:remoteCanvas:" : "RAA 11/8/2000 14:35",
+		"displayIsFullyUpdated" : "RAA 11/7/2000 13:54",
+		"drawMorph:" : "RAA 7/31/2000 20:32",
+		"extent" : "RAA 7/31/2000 22:36",
+		"forceToScreen:" : "RAA 11/7/2000 15:00",
+		"origin" : "RAA 7/31/2000 22:36",
+		"purgeOutputQueue" : "RAA 11/8/2000 15:06",
+		"sendDeltas" : "RAA 11/7/2000 18:08" } }

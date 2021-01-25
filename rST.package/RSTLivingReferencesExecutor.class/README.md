@@ -1,0 +1,1 @@
+I notity to a remote broker wich objects must keep alive

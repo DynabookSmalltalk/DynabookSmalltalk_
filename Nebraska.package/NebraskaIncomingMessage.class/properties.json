@@ -1,0 +1,15 @@
+{
+	"category" : "Nebraska-Network-Communications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"MessageHandlers",
+		"MessageTypes" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "NebraskaIncomingMessage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"fonts" ],
+	"name" : "FontCache",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

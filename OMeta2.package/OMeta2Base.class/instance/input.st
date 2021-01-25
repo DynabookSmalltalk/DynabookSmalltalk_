@@ -1,0 +1,4 @@
+rules-basic
+input
+
+	^ input

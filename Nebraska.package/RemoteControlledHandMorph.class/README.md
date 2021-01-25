@@ -1,0 +1,1 @@
+Used as part of the Nebraska system.  It is controlled by commands sent through a socket.  The encoding is interpreted via a MorphicEventDecoder.

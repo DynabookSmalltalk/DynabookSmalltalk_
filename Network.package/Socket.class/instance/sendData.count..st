@@ -1,4 +1,4 @@
-sending
+sending-receiving
 sendData: buffer count: n
 	"Send the amount of data from the given buffer."
 	| sent totalSent |

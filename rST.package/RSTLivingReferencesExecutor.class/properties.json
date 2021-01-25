@@ -1,0 +1,15 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 2/22/2002 23:01",
+	"instvars" : [
+		"from",
+		"objectIDs" ],
+	"name" : "RSTLivingReferencesExecutor",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

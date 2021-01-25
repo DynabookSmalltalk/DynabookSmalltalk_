@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"brokerID:objectID:" : "dgd 2/26/2002 22:51",
+		"fromString:" : "dgd 2/26/2002 22:51" },
+	"instance" : {
+		"=" : "dgd 2/26/2002 22:42",
+		"asLocalObject" : "dgd 2/6/2002 22:27",
+		"asProxy" : "dgd 2/6/2002 22:26",
+		"brokerID" : "dgd 2/26/2002 22:42",
+		"hash" : "dgd 2/26/2002 22:42",
+		"initializeBrokerID:objectID:" : "dgd 2/26/2002 22:45",
+		"objectID" : "dgd 2/18/2002 21:56",
+		"printOn:" : "dgd 2/26/2002 22:42" } }

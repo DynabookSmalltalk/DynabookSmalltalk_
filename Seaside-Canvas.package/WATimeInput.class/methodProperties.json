@@ -1,0 +1,22 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addCallback" : " 1/25/2021 16:07:53",
+		"addHoursCallbackToBrush:" : " 1/25/2021 16:07:53",
+		"addMinutesCallbackToBrush:" : " 1/25/2021 16:07:53",
+		"addSecondsCallbackToBrush:" : " 1/25/2021 16:07:53",
+		"hours" : " 1/25/2021 16:07:53",
+		"hours:" : " 1/25/2021 16:07:53",
+		"initialize" : " 1/25/2021 16:07:53",
+		"minutes" : " 1/25/2021 16:07:53",
+		"minutes:" : " 1/25/2021 16:07:53",
+		"renderHours" : " 1/25/2021 16:07:53",
+		"renderMinutes" : " 1/25/2021 16:07:53",
+		"renderSeconds" : " 1/25/2021 16:07:53",
+		"seconds" : " 1/25/2021 16:07:53",
+		"seconds:" : " 1/25/2021 16:07:53",
+		"setValueWithNewTime" : " 1/25/2021 16:07:53",
+		"with:" : " 1/25/2021 16:07:53",
+		"withSeconds" : " 1/25/2021 16:07:53",
+		"withoutSeconds" : " 1/25/2021 16:07:53" } }

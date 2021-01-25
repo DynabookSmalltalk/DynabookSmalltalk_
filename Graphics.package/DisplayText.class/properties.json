@@ -1,0 +1,19 @@
+{
+	"category" : "Graphics-Display Objects",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"text",
+		"textStyle",
+		"offset",
+		"form",
+		"foreColor",
+		"backColor" ],
+	"name" : "DisplayText",
+	"pools" : [
+		"TextConstants" ],
+	"super" : "DisplayObject",
+	"type" : "normal" }

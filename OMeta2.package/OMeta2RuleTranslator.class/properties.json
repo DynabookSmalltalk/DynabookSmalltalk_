@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"grammarClass" ],
+	"name" : "OMeta2RuleTranslator",
+	"pools" : [
+		 ],
+	"super" : "OMeta2",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+EToyMorphsWelcomeMorph new openInWorld

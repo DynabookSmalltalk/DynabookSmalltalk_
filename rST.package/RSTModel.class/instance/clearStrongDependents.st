@@ -1,0 +1,3 @@
+private
+clearStrongDependents
+	strongDependents _ nil

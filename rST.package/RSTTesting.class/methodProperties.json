@@ -1,0 +1,16 @@
+{
+	"class" : {
+		"clientPort" : "dgd 2/23/2002 00:04",
+		"collectionToString:" : "dgd 2/15/2002 20:16",
+		"runClient" : "dgd 3/18/2002 21:04",
+		"runClientCollectionTests" : "dgd 2/26/2002 22:52",
+		"runClientPerformanceTests" : "dgd 2/26/2002 22:52",
+		"runClientPersonTests" : "dgd 3/5/2002 21:36",
+		"runClientTodayTests" : "dgd 2/26/2002 22:52",
+		"runClientTranscriptTests" : "dgd 2/26/2002 22:52",
+		"serverAddress" : "dgd 2/23/2002 00:04",
+		"serverBrokerID" : "dgd 2/26/2002 22:52",
+		"serverPort" : "dgd 2/23/2002 00:05",
+		"serverStartup" : "dgd 3/18/2002 21:04" },
+	"instance" : {
+		 } }

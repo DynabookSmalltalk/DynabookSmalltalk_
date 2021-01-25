@@ -1,0 +1,4 @@
+rules-basic
+empty
+
+	^ true

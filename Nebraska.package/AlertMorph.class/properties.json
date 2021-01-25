@@ -1,0 +1,17 @@
+{
+	"category" : "Nebraska-Audio Chat",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"onColor",
+		"offColor",
+		"myObjSock",
+		"socketOwner" ],
+	"name" : "AlertMorph",
+	"pools" : [
+		 ],
+	"super" : "EllipseMorph",
+	"type" : "normal" }

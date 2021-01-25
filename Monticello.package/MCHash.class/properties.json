@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Security-Signing",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"hashValue" ],
+	"name" : "MCHash",
+	"pools" : [
+		 ],
+	"super" : "MCDefinition",
+	"type" : "normal" }

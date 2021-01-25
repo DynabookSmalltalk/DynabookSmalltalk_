@@ -1,0 +1,15 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"connection",
+		"lastEventSent" ],
+	"name" : "MorphicEventEncoder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

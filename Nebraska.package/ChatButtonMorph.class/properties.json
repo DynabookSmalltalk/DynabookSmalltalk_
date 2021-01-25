@@ -1,0 +1,17 @@
+{
+	"category" : "Nebraska-Audio Chat",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"actionDownSelector",
+		"actionUpSelector",
+		"labelDown",
+		"labelUp" ],
+	"name" : "ChatButtonMorph",
+	"pools" : [
+		 ],
+	"super" : "SimpleButtonMorph",
+	"type" : "normal" }

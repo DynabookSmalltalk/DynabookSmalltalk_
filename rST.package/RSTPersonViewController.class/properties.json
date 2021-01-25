@@ -1,0 +1,17 @@
+{
+	"category" : "rST-Samples",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"person",
+		"model",
+		"lastName",
+		"lastEMail" ],
+	"name" : "RSTPersonViewController",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

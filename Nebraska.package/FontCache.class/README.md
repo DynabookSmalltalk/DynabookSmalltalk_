@@ -1,0 +1,1 @@
+Used by MREncoder and MRDecoder.  It associates an integer index with a number of fonts.  Fonts can be searched by index, and the index can be found for a font that isn't present.  If a font is added to the cache, sometimes the cache will discard another font to make room.

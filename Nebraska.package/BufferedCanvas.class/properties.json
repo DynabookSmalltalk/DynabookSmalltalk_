@@ -1,0 +1,18 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"remote",
+		"previousVersion",
+		"lastTick",
+		"dirtyRect",
+		"mirrorOfScreen" ],
+	"name" : "BufferedCanvas",
+	"pools" : [
+		 ],
+	"super" : "PluggableCanvas",
+	"type" : "normal" }

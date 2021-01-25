@@ -1,0 +1,15 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"nebraskaBorder",
+		"nebraskaTerminal" ],
+	"name" : "NebraskaNavigationMorph",
+	"pools" : [
+		 ],
+	"super" : "ProjectNavigationMorph",
+	"type" : "normal" }

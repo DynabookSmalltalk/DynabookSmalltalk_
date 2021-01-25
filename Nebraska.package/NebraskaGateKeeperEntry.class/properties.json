@@ -1,0 +1,20 @@
+{
+	"category" : "Nebraska-Morphs-Experimental",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"KnownIPAddresses" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ipAddress",
+		"accessAttempts",
+		"lastTimes",
+		"acceptableTypes",
+		"latestUserName",
+		"attempsDenied",
+		"lastRequests" ],
+	"name" : "NebraskaGateKeeperEntry",
+	"pools" : [
+		 ],
+	"super" : "MorphicModel",
+	"type" : "normal" }

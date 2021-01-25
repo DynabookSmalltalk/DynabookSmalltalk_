@@ -1,0 +1,25 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		"instance",
+		"port" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 2/27/2002 22:16",
+	"instvars" : [
+		"status",
+		"port",
+		"logging",
+		"brokerID",
+		"proxies",
+		"proxiesMutex",
+		"lastRemoteBrokers",
+		"exportedObjects",
+		"rememberer",
+		"connectionHandler",
+		"maintenancer" ],
+	"name" : "RSTBroker",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

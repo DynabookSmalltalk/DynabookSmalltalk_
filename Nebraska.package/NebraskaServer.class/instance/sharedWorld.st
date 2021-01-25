@@ -1,0 +1,3 @@
+attributes
+sharedWorld
+	^world

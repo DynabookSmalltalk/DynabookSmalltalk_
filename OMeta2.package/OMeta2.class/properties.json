@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "OMeta2",
+	"pools" : [
+		 ],
+	"super" : "OMeta2Base",
+	"type" : "normal" }

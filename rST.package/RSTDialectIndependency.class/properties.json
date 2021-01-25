@@ -1,0 +1,14 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		"instance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 3/19/2002 22:32",
+	"instvars" : [
+		 ],
+	"name" : "RSTDialectIndependency",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

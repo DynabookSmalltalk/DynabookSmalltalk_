@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"acceptRequest:from:at:" : "RAA 8/8/2000 11:06",
+		"acceptableTypesFor:" : "RAA 7/31/2000 12:43",
+		"entryForIPAddress:" : "tfel 8/30/2016 11:45",
+		"includeInNewMorphMenu" : "RAA 8/3/2000 07:48",
+		"knownIPAddresses" : "RAA 7/11/2000 08:42",
+		"updateCounter" : "RAA 7/11/2000 09:28" },
+	"instance" : {
+		"defaultBorderColor" : "mt 5/4/2018 15:52",
+		"defaultBorderStyle" : "mt 4/11/2018 08:49",
+		"defaultBorderWidth" : "dgd 2/14/2003 22:37",
+		"defaultColor" : "dgd 2/14/2003 22:25",
+		"initialize" : "dgd 2/14/2003 19:42",
+		"open" : "RAA 7/11/2000 09:29",
+		"rebuild" : "RAA 7/16/2000 13:27",
+		"step" : "tfel 8/30/2016 11:46" } }

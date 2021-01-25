@@ -1,0 +1,15 @@
+{
+	"category" : "Graphics-External-Ffenestri",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"windowClass",
+		"windowAttributes" ],
+	"name" : "MacOSXWindowProxy",
+	"pools" : [
+		 ],
+	"super" : "HostWindowProxy",
+	"type" : "normal" }

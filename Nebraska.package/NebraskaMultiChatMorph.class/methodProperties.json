@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"chatWindowForIP:name:picture:inWorld:" : "tfel 8/30/2016 11:40",
+		"descriptionForPartsBin" : "tak 7/25/2007 00:05" },
+	"instance" : {
+		"acceptDroppingMorph:event:" : "tfel 8/30/2016 11:45",
+		"acceptTo:forMorph:" : "RAA 11/5/2000 14:15",
+		"chatFrom:name:text:" : "RAA 8/17/2000 09:01",
+		"editEvent:for:" : "KR 3/25/2008 17:54",
+		"initialize" : "RAA 8/17/2000 08:57",
+		"rebuild" : "KR 3/25/2008 17:54",
+		"standardBorderColor" : "RAA 8/17/2000 08:53",
+		"transmittedObjectCategory" : "tfel 8/30/2016 11:47",
+		"updateIPAddressField:" : "nice 8/19/2010 14:29",
+		"wantsDroppedMorph:event:" : "tfel 8/30/2016 11:45" } }

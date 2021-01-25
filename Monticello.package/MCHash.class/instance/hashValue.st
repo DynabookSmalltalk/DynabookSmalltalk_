@@ -1,0 +1,4 @@
+accessing
+hashValue
+
+	^ hashValue

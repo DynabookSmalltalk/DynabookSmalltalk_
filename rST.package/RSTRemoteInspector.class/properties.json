@@ -1,0 +1,14 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 1/4/2002 22:58",
+	"instvars" : [
+		 ],
+	"name" : "RSTRemoteInspector",
+	"pools" : [
+		 ],
+	"super" : "Inspector",
+	"type" : "normal" }

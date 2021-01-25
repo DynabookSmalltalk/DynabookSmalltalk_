@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"act" : "warf 4/3/2010 00:44",
+		"and" : "warf 4/3/2010 00:44",
+		"app" : "warf 4/3/2010 00:52",
+		"consby" : "warf 4/3/2010 00:51",
+		"delim:with:" : "warf 4/3/2010 00:51",
+		"form" : "warf 4/3/2010 00:50",
+		"idxconsby" : "warf 4/3/2010 00:50",
+		"lookahead" : "warf 4/3/2010 00:50",
+		"many" : "warf 4/3/2010 00:49",
+		"many1" : "warf 4/3/2010 00:49",
+		"not" : "warf 4/3/2010 00:49",
+		"opt" : "warf 4/3/2010 00:49",
+		"or" : "warf 4/3/2010 00:49",
+		"pred" : "warf 4/3/2010 00:48",
+		"rule" : "hmm 4/17/2010 17:18",
+		"set" : "warf 4/3/2010 00:47",
+		"squeak" : "warf 4/3/2010 00:47",
+		"superapp" : "warf 4/13/2010 13:03",
+		"trans" : "warf 4/3/2010 00:45",
+		"translate" : "warf 4/3/2010 00:45" } }

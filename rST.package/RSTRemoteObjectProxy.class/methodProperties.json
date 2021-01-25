@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"remoteObjectID:" : "dgd 12/23/2001 19:56" },
+	"instance" : {
+		"basicInspect" : "dgd 2/14/2002 21:30",
+		"become:" : "dgd 2/15/2002 18:36",
+		"defaultLabelForInspector" : "dgd 2/26/2002 21:51",
+		"doesNotUnderstand:" : "dgd 1/4/2002 23:32",
+		"error:" : "dgd 2/15/2002 18:36",
+		"halt" : "dgd 2/14/2002 22:30",
+		"initializeRemoteObjectID:" : "dgd 2/20/2002 21:51",
+		"inspect" : "dgd 2/14/2002 21:30",
+		"inspectWithLabel:" : "dgd 2/14/2002 21:38",
+		"isRemote" : "dgd 1/4/2002 21:53",
+		"xxxRemoteObjectID" : "dgd 1/4/2002 23:45",
+		"xxxSameImage:" : "dgd 2/26/2002 22:45",
+		"xxxSend:" : "dgd 2/22/2002 23:03" } }

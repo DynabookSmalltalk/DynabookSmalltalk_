@@ -1,0 +1,1 @@
+Holds all the methods to handle dialect differencies

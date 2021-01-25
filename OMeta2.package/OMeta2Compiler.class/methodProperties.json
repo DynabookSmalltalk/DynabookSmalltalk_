@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"compile:in:classified:notifying:ifFail:" : "warf 2/18/2009 16:30",
+		"compile:in:notifying:ifFail:" : "warf 5/20/2009 12:57",
+		"parse:class:noPattern:context:notifying:ifFail:" : "warf 2/27/2009 13:11",
+		"parser" : "hmm 5/24/2010 10:51",
+		"parserClass" : "warf 2/27/2009 13:10" } }

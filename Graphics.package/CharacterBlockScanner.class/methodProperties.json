@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"characterBlockAtPoint:index:in:" : "nice 10/22/2013 20:50",
+		"cr" : "nice 10/1/2013 01:12",
+		"crossedX" : "nice 10/2/2013 02:07",
+		"endOfRun" : "nice 10/1/2013 01:45",
+		"indentationLevel:" : "hmm 2/2/2001 15:07",
+		"paddedSpace" : "nice 10/8/2013 22:40",
+		"placeEmbeddedObjectFrom:" : "pre 6/13/2019 21:30",
+		"retrieveLastCharacterWidth" : "pre 5/27/2019 17:50",
+		"setFont" : "pre 5/27/2019 17:51",
+		"tab" : "nice 10/13/2013 22:13" } }

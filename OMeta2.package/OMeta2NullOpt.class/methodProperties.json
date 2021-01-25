@@ -1,0 +1,21 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"and" : "warf 5/20/2009 12:44",
+		"consby" : "warf 5/20/2009 12:44",
+		"form" : "warf 5/20/2009 12:44",
+		"helped" : "warf 5/20/2009 12:01",
+		"idxconsby" : "warf 5/20/2009 12:44",
+		"initialize" : "warf 5/20/2009 12:30",
+		"lookahead" : "warf 5/20/2009 12:44",
+		"many" : "warf 5/20/2009 12:44",
+		"many1" : "warf 5/20/2009 12:44",
+		"not" : "warf 5/20/2009 12:45",
+		"opt" : "warf 5/20/2009 12:45",
+		"optimize" : "warf 5/20/2009 12:02",
+		"or" : "warf 5/20/2009 12:45",
+		"rule" : "warf 5/20/2009 12:45",
+		"set" : "warf 5/20/2009 12:45",
+		"setHelped" : "warf 5/20/2009 12:00",
+		"trans" : "warf 5/20/2009 12:42" } }

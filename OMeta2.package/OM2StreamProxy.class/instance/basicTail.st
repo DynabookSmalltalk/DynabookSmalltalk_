@@ -1,0 +1,4 @@
+accessing
+basicTail
+
+	^ target basicTail

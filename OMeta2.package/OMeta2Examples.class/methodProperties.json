@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"aSqueakMethod" : "warf 2/20/2009 02:35",
+		"anotherSqueakMethod" : "warf 2/20/2009 02:36",
+		"digit" : "warf 2/27/2009 15:58",
+		"fact" : "warf 5/20/2009 12:58",
+		"formTest" : "warf 2/26/2009 12:04",
+		"greeting" : "warf 2/20/2009 14:36",
+		"identifier" : "warf 2/27/2009 15:45",
+		"identifierIdx" : "warf 2/27/2009 15:48",
+		"identifiers" : "warf 2/20/2009 14:54",
+		"number" : "warf 2/27/2009 15:46",
+		"structure" : "warf 2/27/2009 15:46" } }

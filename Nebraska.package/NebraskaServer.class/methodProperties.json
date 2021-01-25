@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"defaultPort" : "RAA 7/24/2000 12:06",
+		"defaultPorts" : "bf 7/1/2008 18:31",
+		"extremelyBigRectangle" : "RAA 11/8/2000 14:59",
+		"newForWorld:" : "mu 11/28/2003 19:38",
+		"serveWorld:" : "bf 7/1/2008 19:49",
+		"serveWorld:onPort:" : "RAA 11/6/2000 17:22" },
+	"instance" : {
+		"acceptNewConnections" : "ls 3/25/2000 22:35",
+		"acceptNullConnection" : "RAA 7/22/2000 07:23",
+		"acceptPhonyConnection" : "RAA 7/20/2000 12:57",
+		"addClientFromConnection:" : "RAA 7/20/2000 10:03",
+		"backlog" : "RAA 8/1/2000 00:01",
+		"clients" : "ar 10/26/2000 14:23",
+		"destroy" : "ar 10/26/2000 14:02",
+		"extent:depth:" : "ls 4/11/2000 19:48",
+		"initialize" : "ar 10/26/2000 14:20",
+		"initializeForWorld:" : "ar 10/26/2000 13:49",
+		"listeningPort" : "bf 7/4/2008 18:29",
+		"numClients" : "ls 4/11/2000 18:41",
+		"processIO" : "ls 3/25/2000 22:36",
+		"pruneDeadConnections" : "ar 10/26/2000 14:20",
+		"sharedWorld" : "ls 3/25/2000 23:13",
+		"startListeningOnPort:" : "ls 3/25/2000 22:31",
+		"step" : "RAA 7/31/2000 22:28",
+		"stopListening" : "ls 3/25/2000 22:32" } }

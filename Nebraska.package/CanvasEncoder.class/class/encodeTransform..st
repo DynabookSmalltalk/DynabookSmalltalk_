@@ -1,0 +1,3 @@
+encoding
+encodeTransform: transform
+	^transform encodeForRemoteCanvas

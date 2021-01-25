@@ -1,0 +1,16 @@
+{
+	"category" : "Nebraska-Morphic-Remote",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"WRITESTRINGSIZES" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"associate",
+		"inArrays",
+		"outArrays" ],
+	"name" : "LoopbackStringSocket",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

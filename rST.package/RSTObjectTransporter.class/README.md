@@ -1,0 +1,1 @@
+I'm the Transporter for Objects that are parameters or results of messages sendings.

@@ -1,0 +1,14 @@
+{
+	"category" : "OMeta2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "OM2Fail",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

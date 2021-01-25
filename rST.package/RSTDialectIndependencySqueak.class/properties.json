@@ -1,0 +1,14 @@
+{
+	"category" : "rST-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dgd 3/19/2002 22:33",
+	"instvars" : [
+		"loggingMutex" ],
+	"name" : "RSTDialectIndependencySqueak",
+	"pools" : [
+		 ],
+	"super" : "RSTDialectIndependency",
+	"type" : "normal" }

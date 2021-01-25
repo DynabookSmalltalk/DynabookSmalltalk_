@@ -1,0 +1,15 @@
+{
+	"category" : "Nebraska-Morphs-Experimental",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"KnownIPAddresses",
+		"UpdateCounter" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"counter" ],
+	"name" : "NebraskaGateKeeperMorph",
+	"pools" : [
+		 ],
+	"super" : "NebraskaCommunicatorMorph",
+	"type" : "normal" }

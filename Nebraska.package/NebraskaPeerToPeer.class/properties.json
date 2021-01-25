@@ -1,0 +1,22 @@
+{
+	"category" : "Nebraska-Network-Communications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"DEBUG",
+		"PREVTICK" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"socket",
+		"communicatorMorph",
+		"process",
+		"ipAddress",
+		"connectionQueue",
+		"dataQueue",
+		"remoteSocketAddress",
+		"leftOverData" ],
+	"name" : "NebraskaPeerToPeer",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
