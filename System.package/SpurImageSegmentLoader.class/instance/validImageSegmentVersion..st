@@ -1,0 +1,3 @@
+private
+validImageSegmentVersion: threeByteInteger
+	self subclassResponsibility

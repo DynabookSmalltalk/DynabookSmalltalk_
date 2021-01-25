@@ -1,0 +1,18 @@
+{
+	"category" : "System-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Authors",
+		"AuthorsInverted",
+		"Default" ],
+	"commentStamp" : "mha 8/26/2010 09:02",
+	"instvars" : [
+		"browserClass",
+		"hierarchyBrowserClass",
+		"environment" ],
+	"name" : "SystemNavigation",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

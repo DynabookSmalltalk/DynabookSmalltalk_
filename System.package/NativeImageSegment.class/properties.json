@@ -1,0 +1,14 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BiggestFileNumber" ],
+	"commentStamp" : "eem 7/3/2017 13:52",
+	"instvars" : [
+		 ],
+	"name" : "NativeImageSegment",
+	"pools" : [
+		 ],
+	"super" : "ImageSegment",
+	"type" : "normal" }

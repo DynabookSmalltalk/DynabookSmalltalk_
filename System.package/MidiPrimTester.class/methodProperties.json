@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"initialize" : "yo 12/3/2004 17:05" },
+	"instance" : {
+		"bufferTimeStampFrom:" : "jm 5/18/1998 12:48",
+		"canTurnOnParameter:" : "jm 5/18/1998 12:48",
+		"getDriverParameters" : "jm 5/18/1998 10:30",
+		"getInputForSeconds:onPort:" : "nice 12/27/2009 03:10",
+		"getPortList" : "jm 5/18/1998 10:05",
+		"openPort:andDo:" : "jm 5/18/1998 15:32",
+		"playDrumRoll:count:onPort:" : "nice 1/18/2010 15:44",
+		"playNoteOnPort:" : "nice 1/18/2010 13:40",
+		"playScale:onPort:" : "nice 1/18/2010 13:40",
+		"primMIDIClosePort:" : "ar 2/2/2001 15:09",
+		"primMIDIGetClock" : "ar 2/2/2001 15:09",
+		"primMIDIGetPortCount" : "ar 2/2/2001 15:09",
+		"primMIDIGetPortDirectionality:" : "ar 2/2/2001 15:09",
+		"primMIDIGetPortName:" : "ar 2/2/2001 15:09",
+		"primMIDIOpenPort:readSemaIndex:interfaceClockRate:" : "ar 2/2/2001 15:09",
+		"primMIDIParameterGet:" : "ar 2/2/2001 15:09",
+		"primMIDIParameterSet:to:" : "ar 2/2/2001 15:09",
+		"primMIDIReadPort:into:" : "ar 2/2/2001 15:09",
+		"primMIDIWritePort:from:at:" : "ar 2/2/2001 15:09" } }

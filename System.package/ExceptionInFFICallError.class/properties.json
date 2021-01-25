@@ -1,0 +1,14 @@
+{
+	"category" : "System-Support",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "eem 8/24/2018 15:21",
+	"instvars" : [
+		"pc" ],
+	"name" : "ExceptionInFFICallError",
+	"pools" : [
+		 ],
+	"super" : "PrimitiveError",
+	"type" : "normal" }

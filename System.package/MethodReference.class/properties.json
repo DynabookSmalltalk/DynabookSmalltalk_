@@ -1,0 +1,19 @@
+{
+	"category" : "System-Tools",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"InvalidReference" ],
+	"commentStamp" : "ct 9/21/2019 17:22",
+	"instvars" : [
+		"classSymbol",
+		"classIsMeta",
+		"methodSymbol",
+		"stringVersion",
+		"category",
+		"environment" ],
+	"name" : "MethodReference",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

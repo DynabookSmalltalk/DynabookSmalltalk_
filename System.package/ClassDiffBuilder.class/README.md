@@ -1,0 +1,1 @@
+I'm like TextDiffBuilder, but I split the input text by my own set of separator characters (see #separatorSet), instead of new lines. I'm meant to create diffs of class definitions.

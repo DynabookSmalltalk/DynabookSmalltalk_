@@ -1,0 +1,14 @@
+{
+	"category" : "System-FilePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SeparatorSet" ],
+	"commentStamp" : "ul 4/1/2015 23:10",
+	"instvars" : [
+		 ],
+	"name" : "ClassDiffBuilder",
+	"pools" : [
+		 ],
+	"super" : "TextDiffBuilder",
+	"type" : "normal" }

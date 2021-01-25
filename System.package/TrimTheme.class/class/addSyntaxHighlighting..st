@@ -1,0 +1,124 @@
+instance creation
+addSyntaxHighlighting: theme
+	"self createDark apply."
+	
+	theme
+		set: #color for: #TextAction to: self blue;
+		
+		set: #default for: #SHTextStylerST80 to: {self white};
+		set: #invalid for: #SHTextStylerST80 to: {self red};
+		set: #excessCode for: #SHTextStylerST80 to: {self red};
+		set: #comment for: #SHTextStylerST80 to: {self cyan};
+		set: #unfinishedComment for: #SHTextStylerST80 to: {self red. TextEmphasis italic};
+		set: #'$' for: #SHTextStylerST80 to: {self yellow};
+		set: #character for: #SHTextStylerST80 to: {self yellow};
+		set: #integer for: #SHTextStylerST80 to: {self yellow};
+		set: #number for: #SHTextStylerST80 to: {self yellow};	
+		set: #- for: #SHTextStylerST80 to: {self yellow};
+		set: #symbol for: #SHTextStylerST80 to: {self orange};	
+		set: #stringSymbol for: #SHTextStylerST80 to: {self orange};	
+		set: #literalArray for: #SHTextStylerST80 to: {self orange};
+		set: #string for: #SHTextStylerST80 to: {self magenta. TextEmphasis normal};
+		set: #unfinishedString for: #SHTextStylerST80 to: {self red. TextEmphasis normal};
+		set: #assignment for: #SHTextStylerST80 to: {nil. TextEmphasis bold};
+		set: #ansiAssignment for: #SHTextStylerST80 to: {nil. TextEmphasis bold};
+		set: #literal for: #SHTextStylerST80 to: {nil. TextEmphasis italic};
+		set: #keyword for: #SHTextStylerST80 to: {self blue};
+		set: #binary for: #SHTextStylerST80 to: {self blue};	
+		set: #unary for: #SHTextStylerST80 to: {self blue};
+		set: #incompleteKeyword for: #SHTextStylerST80 to: {self white. TextEmphasis underlined};
+		set: #incompleteBinary for: #SHTextStylerST80 to: {self white. TextEmphasis underlined};	
+		set: #incompleteUnary for: #SHTextStylerST80 to: {self white. TextEmphasis underlined};
+		set: #undefinedKeyword for: #SHTextStylerST80 to: {self red};
+		set: #undefinedBinary for: #SHTextStylerST80 to: {self red};	
+		set: #undefinedUnary for: #SHTextStylerST80 to: {self red};													
+		set: #patternKeyword for: #SHTextStylerST80 to: {nil};
+		set: #patternBinary for: #SHTextStylerST80 to: {nil};
+		set: #patternUnary for: #SHTextStylerST80 to: {nil};	
+		set: #self for: #SHTextStylerST80 to: {self gray168};
+		set: #super for: #SHTextStylerST80 to: {self gray168}; 
+		set: #true for: #SHTextStylerST80 to: {self red};
+		set: #false for: #SHTextStylerST80 to: {self red};
+		set: #nil for: #SHTextStylerST80 to: {self red};
+		set: #thisContext for: #SHTextStylerST80 to: {self red};
+		set: #return for: #SHTextStylerST80 to: {self red};
+		set: #patternArg for: #SHTextStylerST80 to: {self gray168};	
+		set: #methodArg for: #SHTextStylerST80 to: {self gray168};
+		set: #blockPatternArg for: #SHTextStylerST80 to: {self gray168};
+		set: #blockArg for: #SHTextStylerST80 to: {self gray168};
+		set: #argument for: #SHTextStylerST80 to: {self gray168};
+		set: #blockArgColon for: #SHTextStylerST80 to: {self white}; 
+		set: #leftParenthesis for: #SHTextStylerST80 to: {self white}; 
+		set: #rightParenthesis for: #SHTextStylerST80 to: {self white}; 
+		set: #leftParenthesis1 for: #SHTextStylerST80 to: {self gray168}; 
+		set: #rightParenthesis1 for: #SHTextStylerST80 to: {self gray168}; 
+		set: #leftParenthesis2 for: #SHTextStylerST80 to: {self gray128}; 
+		set: #rightParenthesis2 for: #SHTextStylerST80 to: {self gray128}; 
+		set: #leftParenthesis3 for: #SHTextStylerST80 to: {self gray102}; 
+		set: #rightParenthesis3 for: #SHTextStylerST80 to: {self gray102}; 
+		set: #leftParenthesis4 for: #SHTextStylerST80 to: {self gray76}; 
+		set: #rightParenthesis4 for: #SHTextStylerST80 to: {self gray76}; 
+		set: #leftParenthesis5 for: #SHTextStylerST80 to: {self gray102}; 
+		set: #rightParenthesis5 for: #SHTextStylerST80 to: {self gray102}; 
+		set: #leftParenthesis6 for: #SHTextStylerST80 to: {self gray128}; 
+		set: #rightParenthesis6 for: #SHTextStylerST80 to: {self gray128}; 
+		set: #leftParenthesis7 for: #SHTextStylerST80 to: {self gray168}; 
+		set: #rightParenthesis7 for: #SHTextStylerST80 to: {self gray168}; 
+		set: #blockStart for: #SHTextStylerST80 to: {self white}; 
+		set: #blockEnd for: #SHTextStylerST80 to: {self white}; 
+		set: #blockStart1 for: #SHTextStylerST80 to: {self gray168}; 
+		set: #blockEnd1 for: #SHTextStylerST80 to: {self gray168}; 
+		set: #blockStart2 for: #SHTextStylerST80 to: {self gray128}; 
+		set: #blockEnd2 for: #SHTextStylerST80 to: {self gray128}; 
+		set: #blockStart3 for: #SHTextStylerST80 to: {self gray102}; 
+		set: #blockEnd3 for: #SHTextStylerST80 to: {self gray102}; 
+		set: #blockStart4 for: #SHTextStylerST80 to: {self gray76}; 
+		set: #blockEnd4 for: #SHTextStylerST80 to: {self gray76}; 
+		set: #blockStart5 for: #SHTextStylerST80 to: {self gray102}; 
+		set: #blockEnd5 for: #SHTextStylerST80 to: {self gray102}; 
+		set: #blockStart6 for: #SHTextStylerST80 to: {self gray128}; 
+		set: #blockEnd6 for: #SHTextStylerST80 to: {self gray128}; 
+		set: #blockStart7 for: #SHTextStylerST80 to: {self gray168}; 
+		set: #blockEnd7 for: #SHTextStylerST80 to: {self gray168}; 																																																		
+		set: #arrayStart for: #SHTextStylerST80 to: {self white}; 
+		set: #arrayEnd for: #SHTextStylerST80 to: {self white}; 
+		set: #arrayStart1 for: #SHTextStylerST80 to: {self white}; 
+		set: #arrayEnd1 for: #SHTextStylerST80 to: {self white}; 
+		set: #byteArrayStart for: #SHTextStylerST80 to: {self white}; 
+		set: #byteArrayEnd for: #SHTextStylerST80 to: {self white}; 
+		set: #byteArrayStart1 for: #SHTextStylerST80 to: {self white}; 
+		set: #byteArrayEnd1 for: #SHTextStylerST80 to: {self white}; 
+		set: #leftBrace for: #SHTextStylerST80 to: {self white}; 
+		set: #rightBrace for: #SHTextStylerST80 to: {self white}; 
+		set: #cascadeSeparator for: #SHTextStylerST80 to: {self white}; 
+		set: #statementSeparator for: #SHTextStylerST80 to: {self white}; 
+		set: #externalCallType for: #SHTextStylerST80 to: {self white}; 
+		set: #externalCallTypePointerIndicator for: #SHTextStylerST80 to: {self white}; 
+		set: #primitiveOrExternalCallStart for: #SHTextStylerST80 to: {self white}; 
+		set: #primitiveOrExternalCallEnd for: #SHTextStylerST80 to: {self white};
+		set: #methodTempBar for: #SHTextStylerST80 to: {self white}; 
+		set: #blockTempBar for: #SHTextStylerST80 to: {self white};
+		set: #blockArgsBar for: #SHTextStylerST80 to: {self white};
+		set: #primitive for: #SHTextStylerST80 to: {self green. TextEmphasis bold};
+		set: #pragmaKeyword for: #SHTextStylerST80 to: {self green. TextEmphasis bold};
+		set: #pragmaUnary for: #SHTextStylerST80 to: {self green. TextEmphasis bold};
+		set: #pragmaBinary for: #SHTextStylerST80 to: {self green. TextEmphasis bold};									
+		set: #externalFunctionCallingConvention for: #SHTextStylerST80 to: {self green. TextEmphasis bold}; 
+		set: #module for: #SHTextStylerST80 to: {self green. TextEmphasis bold};
+		set: #blockTempVar for: #SHTextStylerST80 to: {self white};
+		set: #blockPatternTempVar for: #SHTextStylerST80 to: {self white};
+		set: #instVar for: #SHTextStylerST80 to: {self white};
+		set: #workspaceVar for: #SHTextStylerST80 to: {self white};
+		set: #undefinedIdentifier for: #SHTextStylerST80 to: {self red};
+		set: #incompleteIdentifier for: #SHTextStylerST80 to: {self white. {TextEmphasis italic. TextEmphasis underlined}};
+		set: #tempVar for: #SHTextStylerST80 to: {self white};
+		set: #patternTempVar for: #SHTextStylerST80 to: {self white};
+		set: #poolConstant for: #SHTextStylerST80 to: {self white};
+		set: #classVar for: #SHTextStylerST80 to: {self white};
+		set: #globalVar for: #SHTextStylerST80 to: {self white}.
+		
+	"And the text differ"
+	theme	
+		set: #insertTextAttributes for: #TextDiffBuilder to: { TextColor color: self green };
+		set: #removeTextAttributes for: #TextDiffBuilder to: { TextEmphasis struckOut. TextColor color: self red };
+		set: #normalTextAttributes for: #TextDiffBuilder to: { TextEmphasis normal }.

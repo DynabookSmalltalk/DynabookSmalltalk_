@@ -1,0 +1,4 @@
+settings
+parityType
+
+	^ parityType

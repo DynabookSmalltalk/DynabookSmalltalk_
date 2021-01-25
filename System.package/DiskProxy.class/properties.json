@@ -1,0 +1,17 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"globalObjectName",
+		"preSelector",
+		"constructorSelector",
+		"constructorArgs" ],
+	"name" : "DiskProxy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

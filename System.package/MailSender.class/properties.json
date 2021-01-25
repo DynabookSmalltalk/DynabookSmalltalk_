@@ -1,0 +1,18 @@
+{
+	"category" : "System-Applications",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SmtpServer",
+		"SmtpServerPort",
+		"UserEmail",
+		"UserName",
+		"UserPassword" ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MailSender",
+	"pools" : [
+		 ],
+	"super" : "AppRegistry",
+	"type" : "normal" }

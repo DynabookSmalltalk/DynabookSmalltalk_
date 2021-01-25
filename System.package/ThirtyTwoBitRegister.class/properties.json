@@ -1,0 +1,15 @@
+{
+	"category" : "System-Digital Signatures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ul 4/13/2015 05:24",
+	"instvars" : [
+		"hi",
+		"low" ],
+	"name" : "ThirtyTwoBitRegister",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

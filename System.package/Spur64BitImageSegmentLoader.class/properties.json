@@ -1,0 +1,14 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Spur64BitImageSegmentLoader",
+	"pools" : [
+		 ],
+	"super" : "SpurImageSegmentLoader",
+	"type" : "normal" }

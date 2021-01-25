@@ -1,0 +1,14 @@
+{
+	"category" : "System-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ProjectPasswordNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

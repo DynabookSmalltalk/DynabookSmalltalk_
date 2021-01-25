@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"isSmtpServerPortSet" : "pre 5/8/2017 11:06",
+		"isSmtpServerSet" : "dvf 5/11/2002 01:31",
+		"isUserEmailSet" : "pre 5/8/2017 11:11",
+		"isUserNameSet" : "pre 5/8/2017 10:58",
+		"isUserPasswordSet" : "pre 5/8/2017 11:00",
+		"reset" : "pre 5/8/2017 11:15",
+		"sendMessage:" : "ads 5/11/2003 21:11",
+		"setSmtpServer" : "rbb 3/1/2005 10:59",
+		"setSmtpServerPort" : "pre 5/8/2017 11:16",
+		"setUserEmail" : "pre 5/8/2017 11:11",
+		"setUserName" : "pre 5/8/2017 11:11",
+		"setUserPassword" : "pre 5/8/2017 11:13",
+		"smtpServer" : "pre 5/8/2017 10:58",
+		"smtpServerPort" : "pre 5/8/2017 11:07",
+		"userEmail" : "pre 5/8/2017 11:10",
+		"userName" : "pre 5/8/2017 11:10",
+		"userPassword" : "pre 5/8/2017 11:01" },
+	"instance" : {
+		 } }

@@ -1,0 +1,13 @@
+{
+	"class" : {
+		"doLogFaults" : "di 2/7/2000 23:43",
+		"dontLogFaults" : "di 2/7/2000 23:17",
+		"faultLogs" : "di 2/11/2000 12:33",
+		"startLoggingFaults" : "di 2/11/2000 12:31",
+		"stopLoggingFaults" : "di 2/11/2000 12:33" },
+	"instance" : {
+		"doesNotUnderstand:" : "di 3/4/2001 22:45",
+		"isInMemory" : "tk 8/13/1999 15:59",
+		"xxSuperclass:format:segment:" : "di 3/27/1999 12:19",
+		"xxxClass" : "tk 4/9/1999 10:32",
+		"xxxSegment" : "tk 10/24/1999 10:57" } }

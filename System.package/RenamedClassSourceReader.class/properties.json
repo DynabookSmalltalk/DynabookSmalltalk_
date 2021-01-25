@@ -1,0 +1,14 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RenamedClassSourceReader",
+	"pools" : [
+		 ],
+	"super" : "ClassCategoryReader",
+	"type" : "normal" }

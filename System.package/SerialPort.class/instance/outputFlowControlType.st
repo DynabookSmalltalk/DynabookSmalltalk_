@@ -1,0 +1,4 @@
+settings
+outputFlowControlType
+
+	^ outputFlowControlType

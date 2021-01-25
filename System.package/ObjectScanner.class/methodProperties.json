@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"clear" : "tk 3/15/98 20:17",
+		"initialize" : "tk 8/15/1998 15:26",
+		"lookAhead:" : "yo 11/11/2002 10:27",
+		"rename:toBe:" : "cwp 1/18/2014 10:08",
+		"scanFrom:" : "tk 3/15/98 20:22",
+		"scanFrom:environment:" : "cwp 6/20/2012 17:39",
+		"smartRefStream" : "tk 3/15/98 19:33" } }

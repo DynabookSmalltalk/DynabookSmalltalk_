@@ -1,0 +1,7 @@
+{
+	"class" : {
+		"fileDoesNotExistUserHandling:ifDebug:" : "mtf 1/20/2011 14:14",
+		"fileExistsUserHandling:ifDebug:" : "mtf 1/20/2011 14:12",
+		"readOnlyFileDoesNotExistUserHandling:ifDebug:" : "mtf 1/20/2011 14:13" },
+	"instance" : {
+		 } }

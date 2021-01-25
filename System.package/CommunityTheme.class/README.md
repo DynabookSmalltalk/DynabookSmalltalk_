@@ -1,0 +1,1 @@
+A dark theme designed by members of the Squeak community.

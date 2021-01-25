@@ -1,0 +1,23 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"BytesInHeader",
+		"CompactClasses",
+		"HeaderTypeClass",
+		"HeaderTypeFree",
+		"HeaderTypeMask",
+		"HeaderTypeShort",
+		"HeaderTypeSizeAndClass" ],
+	"commentStamp" : "eem 7/3/2017 13:40",
+	"instvars" : [
+		"segment",
+		"outPointers",
+		"oopMap",
+		"position" ],
+	"name" : "ImageSegmentLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,16 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "tk 3/4/2003 19:39",
+	"instvars" : [
+		"references",
+		"uniClasses",
+		"newUniClasses" ],
+	"name" : "DeepCopier",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

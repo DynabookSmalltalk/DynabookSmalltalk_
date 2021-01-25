@@ -1,0 +1,16 @@
+{
+	"category" : "System-FilePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "ul 9/11/2013 01:01",
+	"instvars" : [
+		"string",
+		"hash",
+		"match" ],
+	"name" : "DiffElement",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,17 @@
+{
+	"category" : "System-Finalization",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"Default" ],
+	"commentStamp" : "ul 9/26/2010 02:51",
+	"instvars" : [
+		"list",
+		"valueDictionary",
+		"sema",
+		"executors" ],
+	"name" : "WeakRegistry",
+	"pools" : [
+		 ],
+	"super" : "Collection",
+	"type" : "normal" }

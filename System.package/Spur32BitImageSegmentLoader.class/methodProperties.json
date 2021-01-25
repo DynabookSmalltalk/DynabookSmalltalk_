@@ -1,0 +1,13 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allocateCompiledCode:size:" : "eem 12/15/2017 12:31",
+		"allocateObject:classIndex:slots:" : "eem 12/15/2017 14:35",
+		"loadSegmentFrom:outPointers:" : "eem 12/15/2017 14:38",
+		"mapPC:in:" : "eem 12/15/2017 14:09",
+		"maybeMapRanges" : "eem 12/15/2017 14:54",
+		"readObject" : "eem 12/14/2017 19:45",
+		"readOop" : "eem 12/15/2017 14:01",
+		"updatePCDependentObjects" : "eem 12/15/2017 12:59",
+		"validImageSegmentVersion:" : "eem 12/14/2017 14:38" } }

@@ -1,0 +1,1 @@
+Like a PseudoClass, but standing in for a Trait. Works identically to PseudoClass otherwise.

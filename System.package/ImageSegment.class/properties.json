@@ -1,0 +1,21 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"RecentlyRenamedClasses" ],
+	"commentStamp" : "eem 7/3/2017 13:44",
+	"instvars" : [
+		"arrayOfRoots",
+		"segment",
+		"outPointers",
+		"state",
+		"segmentName",
+		"fileName",
+		"userRootCnt",
+		"renamedClasses" ],
+	"name" : "ImageSegment",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

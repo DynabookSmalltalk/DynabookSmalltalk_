@@ -1,0 +1,14 @@
+{
+	"category" : "System-FilePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "klub 12/28/2009 05:12",
+	"instvars" : [
+		"sourceClass" ],
+	"name" : "PrettyTextDiffBuilder",
+	"pools" : [
+		 ],
+	"super" : "TextDiffBuilder",
+	"type" : "normal" }

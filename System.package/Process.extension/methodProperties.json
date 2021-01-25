@@ -1,0 +1,22 @@
+{
+	"class" : {
+		"forBlock:" : "mt 10/2/2019 10:17",
+		"forBlock:runUntil:" : "mt 10/6/2019 18:00",
+		"forMethod:receiver:" : "mt 10/2/2019 10:36",
+		"forMethod:receiver:arguments:" : "mt 10/2/2019 10:33",
+		"forMethod:receiver:arguments:runUntil:" : "mt 10/2/2019 10:33" },
+	"instance" : {
+		"clearErrorRecursionFlag" : "mt 10/3/2019 13:35",
+		"debug" : "mt 9/30/2019 17:37",
+		"debug:" : "mt 10/1/2019 14:05",
+		"debug:title:" : "mt 9/30/2019 17:37",
+		"debug:title:full:" : "mt 9/30/2019 17:37",
+		"debug:title:full:contents:" : "mt 9/30/2019 17:38",
+		"debugWithTitle:" : "mt 9/30/2019 17:38",
+		"debugWithTitle:full:" : "mt 9/30/2019 17:38",
+		"debugWithTitle:full:contents:" : "mt 9/30/2019 17:38",
+		"hasRecursiveError" : "mt 10/3/2019 13:35",
+		"runUntil:" : "mt 10/3/2019 13:30",
+		"setErrorRecursionFlag" : "mt 10/3/2019 13:35",
+		"shouldResumeFromDebugger" : "mt 10/3/2019 13:33",
+		"shouldResumeFromDebugger:" : "mt 10/3/2019 13:33" } }

@@ -1,0 +1,25 @@
+{
+	"category" : "System-Serial Port",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"CanSetClock",
+		"CanUseSemaphore",
+		"ClockTicksPerSec",
+		"EchoOn",
+		"EventsAvailable",
+		"FlushDriver",
+		"HasBuffer",
+		"HasDurs",
+		"HasInputClock",
+		"Installed",
+		"UseControllerCache",
+		"Version" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"port" ],
+	"name" : "MidiPrimTester",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

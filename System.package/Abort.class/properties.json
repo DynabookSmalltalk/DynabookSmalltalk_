@@ -1,0 +1,14 @@
+{
+	"category" : "System-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Abort",
+	"pools" : [
+		 ],
+	"super" : "Exception",
+	"type" : "normal" }

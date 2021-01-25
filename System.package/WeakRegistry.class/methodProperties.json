@@ -1,0 +1,21 @@
+{
+	"class" : {
+		"default" : "Igor.Stasenko 9/22/2010 21:22",
+		"new" : "Igor.Stasenko 3/8/2010 21:47",
+		"new:" : "Igor.Stasenko 5/25/2010 05:31",
+		"postRecompileAction" : "eem 10/8/2019 12:45" },
+	"instance" : {
+		"add:" : "Igor.Stasenko 3/8/2010 21:03",
+		"add:executor:" : "Igor.Stasenko 5/25/2010 05:30",
+		"do:" : "Igor.Stasenko 5/25/2010 05:11",
+		"finalizeValues" : "eem 8/25/2015 10:36",
+		"initialize" : "Igor.Stasenko 5/28/2010 05:12",
+		"installFinalizer" : "eem 8/25/2015 10:34",
+		"keys" : "Igor.Stasenko 10/11/2010 15:11",
+		"postCopy" : "Igor.Stasenko 5/28/2010 05:16",
+		"printElementsOn:" : "Igor.Stasenko 5/25/2010 05:13",
+		"protected:" : "Igor.Stasenko 5/25/2010 05:34",
+		"remove:ifAbsent:" : "Igor.Stasenko 5/25/2010 05:21",
+		"removeAll" : "Igor.Stasenko 5/25/2010 05:16",
+		"size" : "Igor.Stasenko 5/25/2010 05:48",
+		"species" : "ar 3/20/98 19:31" } }

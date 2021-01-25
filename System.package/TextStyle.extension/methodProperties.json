@@ -1,0 +1,9 @@
+{
+	"class" : {
+		"chooseTTCFontSize:" : "rbb 3/1/2005 11:18",
+		"writeSF2FamilyNamed:inDirectory:toChangeSet:" : "tpr 6/10/2005 18:29",
+		"writeStyle:named:toChangeSet:" : "nice 7/17/2014 23:41:33.7" },
+	"instance" : {
+		"addNewFontSize:" : "tfel 8/5/2016 16:04",
+		"addNewFontSizeDialog:" : "rbb 3/1/2005 11:18",
+		"discardOtherSizes" : "yo 6/23/2003 19:58" } }

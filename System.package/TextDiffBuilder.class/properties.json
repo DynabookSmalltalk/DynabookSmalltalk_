@@ -1,0 +1,19 @@
+{
+	"category" : "System-FilePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"IgnoreLineEndings",
+		"InsertTextAttributes",
+		"NormalTextAttributes",
+		"RemoveTextAttributes" ],
+	"commentStamp" : "fbs 9/23/2013 08:58",
+	"instvars" : [
+		"xLines",
+		"yLines",
+		"ignoreLineEndings" ],
+	"name" : "TextDiffBuilder",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

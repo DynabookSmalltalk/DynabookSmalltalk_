@@ -1,0 +1,14 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"pvt3SmartRefStrm" ],
+	"name" : "ObjectScanner",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,14 @@
+{
+	"category" : "System-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "ProgressTargetRequestNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+This class is used to load objects from an ImageSegment that is incompatible with the current VM (see LegacyImageSegment>>loadSegmentFrom:outPointers:).

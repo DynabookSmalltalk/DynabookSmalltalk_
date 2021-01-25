@@ -1,0 +1,18 @@
+{
+	"category" : "System-FilePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"LogFileStream" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"fullName",
+		"sourceSystem",
+		"classes",
+		"doIts",
+		"classOrder" ],
+	"name" : "FilePackage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

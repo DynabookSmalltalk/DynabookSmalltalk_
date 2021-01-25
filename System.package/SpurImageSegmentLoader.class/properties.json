@@ -1,0 +1,18 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"TopHashBit" ],
+	"commentStamp" : "eem 12/15/2017 11:20",
+	"instvars" : [
+		"segment",
+		"outPointers",
+		"oopMap",
+		"position",
+		"pcDependentObjects" ],
+	"name" : "SpurImageSegmentLoader",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

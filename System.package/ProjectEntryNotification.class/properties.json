@@ -1,0 +1,14 @@
+{
+	"category" : "System-Exceptions",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"projectToEnter" ],
+	"name" : "ProjectEntryNotification",
+	"pools" : [
+		 ],
+	"super" : "Notification",
+	"type" : "normal" }

@@ -1,0 +1,28 @@
+{
+	"category" : "System-Digital Signatures",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"K1",
+		"K2",
+		"K3",
+		"K4",
+		"TA",
+		"TB",
+		"TC",
+		"TD",
+		"TE",
+		"TI" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"totalA",
+		"totalB",
+		"totalC",
+		"totalD",
+		"totalE",
+		"totals" ],
+	"name" : "SecureHashAlgorithm",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

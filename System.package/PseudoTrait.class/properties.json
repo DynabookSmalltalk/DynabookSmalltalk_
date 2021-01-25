@@ -1,0 +1,14 @@
+{
+	"category" : "System-FilePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "jr 2/12/2017 15:50",
+	"instvars" : [
+		 ],
+	"name" : "PseudoTrait",
+	"pools" : [
+		 ],
+	"super" : "PseudoClass",
+	"type" : "normal" }

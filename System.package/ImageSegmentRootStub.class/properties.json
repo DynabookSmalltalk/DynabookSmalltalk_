@@ -1,0 +1,18 @@
+{
+	"category" : "System-Object Storage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"FaultLogs",
+		"LoggingFaults" ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"shadowSuper",
+		"shadowMethodDict",
+		"shadowFormat",
+		"imageSegment" ],
+	"name" : "ImageSegmentRootStub",
+	"pools" : [
+		 ],
+	"super" : "ProtoObject",
+	"type" : "normal" }

@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"asPreference" : "mt 8/26/2015 16:09",
+		"attemptToSetValueFromGetter:" : "eem 11/14/2017 10:56",
+		"codeString" : "mt 8/15/2019 11:28",
+		"id" : "mt 8/26/2015 16:48",
+		"isDeprecated" : "mt 8/6/2019 15:38",
+		"isObsolete" : "mt 8/6/2019 09:41",
+		"isPragmaPreference" : "mt 1/24/2019 12:28",
+		"localToProject" : "mt 8/26/2015 16:09",
+		"preferenceValue" : "ar 3/9/2009 21:31",
+		"preferenceValue:" : "ar 3/9/2009 21:30",
+		"printOn:" : "ar 3/9/2009 21:28",
+		"provider" : "kb 11/28/2009 12:17",
+		"provider:getter:setter:" : "ar 3/9/2009 21:35",
+		"rawValue:" : "eem 11/14/2017 09:18",
+		"restoreDefaultValue" : "ar 3/9/2009 21:28",
+		"togglePreferenceValue" : "ar 3/9/2009 21:31" } }

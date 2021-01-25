@@ -1,0 +1,3 @@
+access
+arrayOfRoots
+	^ arrayOfRoots

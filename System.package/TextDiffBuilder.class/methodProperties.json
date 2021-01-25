@@ -1,0 +1,24 @@
+{
+	"class" : {
+		"applyUserInterfaceTheme" : "mt 7/9/2016 10:39",
+		"buildDisplayPatchFrom:to:" : "klub 12/27/2009 02:59",
+		"buildDisplayPatchFrom:to:inClass:prettyDiffs:" : "ul 12/27/2009 17:16",
+		"from:to:" : "ul 9/11/2013 01:02",
+		"from:to:ignoreLineEndings:" : "ul 9/11/2013 01:02",
+		"ignoreLineEndings" : "nice 2/25/2010 04:07",
+		"ignoreLineEndings:" : "nice 2/25/2010 03:57",
+		"themeProperties" : "mt 7/9/2016 10:38" },
+	"instance" : {
+		"applyUserInterfaceTheme" : "mt 7/9/2016 10:46",
+		"buildDisplayPatch" : "eem 7/5/2018 09:10",
+		"buildPatchSequence" : "ul 1/11/2010 01:05",
+		"canApplyUserInterfaceTheme" : "mt 8/16/2016 14:55",
+		"findMatches" : "ul 2/8/2011 03:04",
+		"from:to:" : "ul 9/11/2013 00:56",
+		"from:to:ignoreLineEndings:" : "ul 9/11/2013 00:56",
+		"ignoreLineEndings:" : "ul 9/11/2013 00:55",
+		"lastIsCR:" : "eem 7/5/2018 09:10",
+		"lcsFor:and:" : "fbs 9/23/2013 08:59",
+		"patchSequenceDoIfMatch:ifInsert:ifRemove:" : "klub 12/29/2009 15:44",
+		"print:withAttributes:on:" : "ul 11/4/2010 22:34",
+		"split:" : "ul 9/11/2013 00:58" } }

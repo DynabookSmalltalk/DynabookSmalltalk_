@@ -1,0 +1,18 @@
+{
+	"category" : "System-FilePackage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"name",
+		"definition",
+		"organization",
+		"source",
+		"metaClass" ],
+	"name" : "PseudoClass",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+ProjectViewOpenNotification is signalled to determine if a ProjectViewMorph is needed for a newly created project. The default answer is yes.

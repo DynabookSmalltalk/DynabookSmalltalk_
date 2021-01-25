@@ -1,0 +1,3 @@
+FileServices is a registry of classes that provide file reading services - defined in the current implementation as classes implementing (directly, not inheriting) #fileReaderServicesForFile:suffix: on their class side.
+Registered classes can provide services to read a file (specified by file name and suffix) or directory (specified by path name). 
+Mostly these services are used in file browser scenarios but see also ExternalDropHandler class>>#lookupServiceBasedHandler: for a different pattern

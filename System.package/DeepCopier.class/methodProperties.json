@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"new:" : "ul 8/24/2016 21:26" },
+	"instance" : {
+		"checkBasicClasses" : "mt 7/28/2016 10:54",
+		"checkClass:" : "mt 6/5/2019 10:33",
+		"checkDeep" : "nice 12/26/2009 01:30",
+		"checkVariables" : "mt 6/5/2019 10:33",
+		"fixDependents" : "ul 8/18/2016 00:56",
+		"initialize" : "hg 11/23/1999 13:36",
+		"initialize:" : "tk 3/4/2003 19:40",
+		"mapUniClasses" : "eem 6/6/2017 12:36",
+		"newUniClasses" : "tk 3/11/2003 14:13",
+		"newUniClasses:" : "tk 3/4/2003 19:44",
+		"objInMemory:" : "tk 3/7/2001 15:29",
+		"references" : "tk 8/20/1998 22:13",
+		"uniClasses" : "tk 8/19/1998 15:48",
+		"warnIverNotCopiedIn:sel:" : "ar 9/27/2005 20:27" } }
