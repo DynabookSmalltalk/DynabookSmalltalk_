@@ -1,0 +1,4 @@
+accessing
+allTextPlusMorphs
+
+	^thePasteUp allTextPlusMorphs

@@ -1,0 +1,15 @@
+{
+	"category" : "MorphicExtras-AdditionalSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"recorder",
+		"suspended" ],
+	"name" : "HandMorphForReplay",
+	"pools" : [
+		 ],
+	"super" : "HandMorph",
+	"type" : "normal" }

@@ -5,10 +5,9 @@ dispatchEvent: anEvent toSubmorphsOf: aMorph
 	| localEvent filteredEvent |	
 	aMorph submorphsDo: [:child |
 		localEvent := anEvent transformedBy: (child transformedFrom: aMorph).
-		filteredEvent := child
-			processEvent: localEvent
-			using: self. "use same dispatcher"
-		filteredEvent == #rejected ifFalse: [ "some event or #rejected symbol"
+		filteredEvent := child processEvent: localEvent.
+		filteredEvent == #rejected ifFalse: [ "some event or #rejected symbol or any other object"
+			filteredEvent isMorphicEvent ifFalse: [filteredEvent := localEvent].		
 			self flag: #overlappingChildren. "mt: We cannot give two overlapping siblings the chance to handle the event!"	
 			^ self nextFromOriginal: anEvent local: localEvent filtered: filteredEvent]].
 

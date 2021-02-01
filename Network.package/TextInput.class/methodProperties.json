@@ -1,0 +1,8 @@
+{
+	"class" : {
+		"name:defaultValue:textMorph:" : "ls 8/5/1998 06:23" },
+	"instance" : {
+		"name" : "ls 8/5/1998 06:34",
+		"name:defaultValue:textMorph:" : "ls 8/5/1998 04:01",
+		"reset" : "ls 8/5/1998 09:02",
+		"value" : "di 3/10/1999 08:45" } }

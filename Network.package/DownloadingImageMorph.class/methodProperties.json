@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"altText:" : "bolot 11/2/1999 14:30",
+		"defaultExtent:" : "ls 9/9/1998 06:59",
+		"downloadStateIn:" : "ar 11/19/1998 23:08",
+		"forkDownloadWhenFinished:" : "bf 6/27/2007 15:30",
+		"formatter" : "bolot 2/27/2000 23:38",
+		"formatter:" : "bolot 2/27/2000 23:38",
+		"imageMapName" : "bolot 2/27/2000 23:34",
+		"imageMapName:" : "bolot 2/27/2000 23:35",
+		"initialize" : "ls 9/15/1998 19:21",
+		"setContents" : "rk 7/6/2004 17:29",
+		"setNoImageContents" : "bolot 2/28/2000 00:14",
+		"step" : "rkris 7/12/2004 14:32",
+		"stepTime" : "ls 9/15/1998 19:19",
+		"url:" : "ls 9/5/1998 17:48" } }

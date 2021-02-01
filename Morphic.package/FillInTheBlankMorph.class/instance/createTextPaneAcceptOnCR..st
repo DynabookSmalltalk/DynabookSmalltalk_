@@ -11,6 +11,8 @@ createTextPaneAcceptOnCR: acceptBoolean
 		showScrollBarsOnlyWhenNeeded;
 		wantsFrameAdornments: false;
 		hasUnacceptedEdits: true;
+		askBeforeDiscardingEdits: false;
+		setProperty: #alwaysAccept toValue: true;
 		acceptOnCR: acceptBoolean;
 		setNameTo: 'textPane';
 		layoutFrame: (LayoutFrame fractions: (0@0 corner: 1@1));

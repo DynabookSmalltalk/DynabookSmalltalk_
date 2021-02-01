@@ -1,0 +1,15 @@
+{
+	"category" : "MorphicExtras-PartsBin",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"searchString",
+		"modeSymbol" ],
+	"name" : "ObjectsTool",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorph",
+	"type" : "normal" }

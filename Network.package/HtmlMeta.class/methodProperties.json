@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addToFormatter:" : "ls 8/12/1998 05:44",
+		"initialize:" : "ls 7/5/1998 02:23",
+		"mayContain:" : "ls 7/5/1998 02:22",
+		"printOn:indent:" : "ls 7/5/1998 02:24",
+		"tagName" : "ls 7/5/1998 02:22" } }

@@ -1,0 +1,12 @@
+{
+	"class" : {
+		"on:bg:text:readSelection:menu:" : "AK 12/4/1999 02:50" },
+	"instance" : {
+		"drawImage:" : "ar 5/14/2001 23:36",
+		"drawOn:" : "dgd 2/21/2003 23:18",
+		"getBg" : "dgd 2/21/2003 23:18",
+		"isImage:" : "gm 2/22/2003 13:11",
+		"layoutChanged" : "AK 12/7/1999 01:31",
+		"on:bg:text:readSelection:menu:" : "AK 12/7/1999 01:25",
+		"setText:" : "kfr 4/25/2005 19:26",
+		"update:" : "di 6/13/2000 08:49" } }

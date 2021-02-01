@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"capturedState" : "di 9/11/2000 20:32",
+		"commandHistory" : "di 9/11/2000 20:29",
+		"descriptionForPartsBin" : "sw 10/24/2001 16:34",
+		"purgeAllCommands" : "di 12/12/2000 15:01",
+		"redoFromCapturedState:" : "di 9/12/2000 08:15",
+		"refineRedoTarget:selector:arguments:in:" : "sw 11/16/2000 14:42",
+		"refineUndoTarget:selector:arguments:in:" : "sw 11/16/2000 14:42",
+		"rememberCommand:" : "di 9/11/2000 20:30",
+		"rememberUndoableAction:named:" : "di 9/11/2000 20:30",
+		"undoFromCapturedState:" : "di 9/11/2000 20:32" } }

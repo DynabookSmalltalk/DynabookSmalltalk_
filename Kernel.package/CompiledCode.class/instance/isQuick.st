@@ -1,4 +1,0 @@
-testing
-isQuick
-
-	self subclassResponsibility.

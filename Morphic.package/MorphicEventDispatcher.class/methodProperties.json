@@ -4,9 +4,9 @@
 	"instance" : {
 		"dispatchDefault:with:" : "mt 5/20/2016 15:21",
 		"dispatchDropEvent:with:" : "mt 5/20/2016 15:21",
-		"dispatchEvent:toSubmorphsOf:" : "mt 6/20/2016 15:04",
+		"dispatchEvent:toSubmorphsOf:" : "mt 8/14/2020 13:39",
 		"dispatchEvent:with:" : "bf 8/30/2007 20:30",
-		"dispatchEvent:withHandler:withMorph:" : "mt 5/20/2016 15:12",
+		"dispatchEvent:withHandler:withMorph:" : "GDK 1/30/2021 14:39",
 		"dispatchFocusEvent:with:" : "mt 12/15/2017 14:16",
 		"dispatchFocusEventAllOver:with:" : "mt 2/18/2020 14:24",
 		"dispatchFocusEventFully:with:" : "mt 12/15/2017 14:17",

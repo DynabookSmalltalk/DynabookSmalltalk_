@@ -1,0 +1,16 @@
+{
+	"category" : "DSIM",
+	"classinstvars" : [
+		"bootSnapshot" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"objects",
+		"basicObjects",
+		"resumeFlag" ],
+	"name" : "Snapshot",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

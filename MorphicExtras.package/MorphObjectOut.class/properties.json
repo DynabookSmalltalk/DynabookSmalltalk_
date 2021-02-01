@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicExtras-SqueakPage",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "MorphObjectOut",
+	"pools" : [
+		 ],
+	"super" : "ObjectOut",
+	"type" : "normal" }

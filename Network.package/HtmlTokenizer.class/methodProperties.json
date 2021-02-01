@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"initialize" : "ls 8/19/1998 09:09",
+		"on:" : "ls 8/20/1998 05:13" },
+	"instance" : {
+		"atEnd" : "ls 8/20/1998 05:15",
+		"initialize:" : "ls 9/18/1998 08:06",
+		"next" : "ls 9/18/1998 08:08",
+		"nextAttributeValue" : "ls 8/20/1998 05:33",
+		"nextChar" : "ls 8/20/1998 05:14",
+		"nextComment" : "ls 8/20/1998 05:31",
+		"nextName" : "ls 8/20/1998 05:24",
+		"nextSpaces" : "ls 8/20/1998 05:23",
+		"nextTag" : "rkris 7/13/2004 00:50",
+		"nextTagOrComment" : "ls 8/20/1998 05:31",
+		"nextText" : "ls 8/20/1998 05:34",
+		"peekChar" : "ls 8/20/1998 05:14",
+		"skipSpaces" : "ls 8/25/1998 05:26" } }

@@ -1,0 +1,15 @@
+{
+	"category" : "MorphicExtras-GeeMail",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"printSpecs",
+		"printBlock" ],
+	"name" : "GeePrinterDialogMorph",
+	"pools" : [
+		 ],
+	"super" : "AlignmentMorphBob1",
+	"type" : "normal" }

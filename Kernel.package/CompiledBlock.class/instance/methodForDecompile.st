@@ -1,3 +1,0 @@
-decompiling
-methodForDecompile
-	^self homeMethod methodForDecompile

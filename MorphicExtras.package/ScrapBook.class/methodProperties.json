@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"cleanUp:" : "fbs 5/14/2013 22:37",
+		"default" : "fbs 5/15/2013 08:39" },
+	"instance" : {
+		"addToTrash:" : "mt 2/14/2020 14:39",
+		"emptyScrapBook" : "fbs 5/20/2013 09:25",
+		"initialize" : "fbs 5/14/2013 20:57",
+		"maybeEmptyTrash" : "fbs 5/14/2013 20:57",
+		"scrapBook" : "mt 2/14/2020 15:04",
+		"trashTitle" : "mt 2/14/2020 14:57" } }

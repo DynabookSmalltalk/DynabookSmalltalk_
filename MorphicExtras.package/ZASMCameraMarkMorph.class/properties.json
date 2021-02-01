@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicExtras-Demo",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "ZASMCameraMarkMorph",
+	"pools" : [
+		 ],
+	"super" : "AbstractMediaEventMorph",
+	"type" : "normal" }

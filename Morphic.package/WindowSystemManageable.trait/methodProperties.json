@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"closeBoxImage" : "GDK 1/27/2021 14:38",
+		"collapseBoxImage" : "GDK 1/27/2021 14:38",
+		"expandBoxImage" : "GDK 1/27/2021 14:39",
+		"menuBoxImage" : "GDK 1/27/2021 14:39" },
+	"instance" : {
+		"createBox:" : "GDK 1/27/2021 15:25",
+		"createCloseBox" : "GDK 1/27/2021 14:56",
+		"createCollapseBox" : "GDK 1/27/2021 14:37",
+		"createExpandBox" : "GDK 1/27/2021 14:37",
+		"createMenuBox" : "GDK 1/27/2021 14:37",
+		"startUpWith:" : "GDK 1/27/2021 15:03",
+		"wsStep" : "GDK 1/27/2021 18:29",
+		"wsWantsSteps" : "GDK 1/27/2021 18:30" } }

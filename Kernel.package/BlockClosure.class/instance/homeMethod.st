@@ -1,3 +1,0 @@
-accessing
-homeMethod
-	^outerContext method

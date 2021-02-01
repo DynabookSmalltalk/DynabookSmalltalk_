@@ -1,1 +1,1 @@
-(PackageInfo named: 'System') postscript: 'Preferences removePreference: #bigDisplay.'!
+(PackageInfo named: 'System') postscript: 'SystemNavigation initializeAuthors.'!

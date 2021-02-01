@@ -1,0 +1,14 @@
+{
+	"category" : "Network-HTML-Parser Entities",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "HtmlBlockQuote",
+	"pools" : [
+		 ],
+	"super" : "HtmlBlockEntity",
+	"type" : "normal" }

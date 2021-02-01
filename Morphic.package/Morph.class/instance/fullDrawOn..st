@@ -14,6 +14,6 @@ fullDrawOn: aCanvas
 		ifTrue: [self drawRolloverBorderOn: aCanvas].
 
 	"Pass 2: Draw receiver itself"
-	(aCanvas isVisible: self bounds) ifTrue:[aCanvas drawMorph: self].
-	self drawSubmorphsOn: aCanvas.
-	self drawOverlayOn: aCanvas.
+	[(aCanvas isVisible: self bounds) ifTrue:[aCanvas drawMorph: self]] valueInProcessWithArguments: {}.
+	[self drawSubmorphsOn: aCanvas.
+	self drawOverlayOn: aCanvas.] valueInProcessWithArguments: {}

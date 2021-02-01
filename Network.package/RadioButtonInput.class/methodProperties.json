@@ -1,0 +1,10 @@
+{
+	"class" : {
+		"inputSet:value:" : "ls 8/11/1998 20:47" },
+	"instance" : {
+		"button:" : "bf 11/4/1999 21:45",
+		"inputSet:value:" : "ls 8/11/1998 20:46",
+		"pressed" : "ls 8/11/1998 19:51",
+		"pressed:" : "bf 11/4/1999 21:48",
+		"toggle" : "ls 8/11/1998 20:28",
+		"valueIfPressed" : "ls 8/11/1998 19:52" } }

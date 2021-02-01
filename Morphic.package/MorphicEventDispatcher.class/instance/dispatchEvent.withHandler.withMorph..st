@@ -20,6 +20,6 @@ dispatchEvent: anEvent withHandler: aHandler withMorph: aMorph
 	
 	"Receiver is in the top-most unlocked, visible chain."
 	(aHandler notNil and: [filteredEvent wasIgnored not])
-		ifTrue: [filteredEvent := aHandler handleEvent: filteredEvent].
+		ifTrue: [filteredEvent := [aHandler handleEvent: filteredEvent] valueInProcessWithArguments: {}].
 
 	^ filteredEvent

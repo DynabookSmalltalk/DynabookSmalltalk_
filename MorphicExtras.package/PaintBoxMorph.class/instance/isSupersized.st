@@ -1,0 +1,4 @@
+initialization
+isSupersized
+	
+	^ self isFlexed

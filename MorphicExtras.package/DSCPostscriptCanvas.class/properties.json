@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicExtras-Postscript Canvases",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "DSCPostscriptCanvas",
+	"pools" : [
+		 ],
+	"super" : "PostscriptCanvas",
+	"type" : "normal" }

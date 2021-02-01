@@ -1,0 +1,3 @@
+buttons
+fontForButtons
+	^ Preferences standardButtonFont

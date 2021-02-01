@@ -1,0 +1,14 @@
+{
+	"category" : "MorphicExtras-Postscript Canvases",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "PostscriptEncoderToDisk",
+	"pools" : [
+		 ],
+	"super" : "PostscriptEncoder",
+	"type" : "normal" }

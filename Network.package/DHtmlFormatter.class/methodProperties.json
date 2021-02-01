@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"decreaseFontBy:" : "bolot 5/18/2000 11:55",
+		"endFont:" : "bolot 5/18/2000 11:23",
+		"endHeader:" : "bolot 5/18/2000 12:01",
+		"headerFont:" : "bolot 5/18/2000 12:00",
+		"increaseFontBy:" : "bolot 5/18/2000 11:50",
+		"lastFontSize" : "bolot 5/18/2000 11:55",
+		"resetFont" : "bolot 5/18/2000 11:57",
+		"setAttributes" : "bolot 5/18/2000 11:26",
+		"startFont:" : "bolot 5/18/2000 11:57",
+		"startHeader:" : "bolot 5/18/2000 12:00" } }

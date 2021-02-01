@@ -22,6 +22,6 @@ storeDataOn: aDataStream
 	(aDataStream byteStream isKindOf: DummyStream) ifTrue: [
 		list := Set new.
 		arrayOfRoots do: [:ea | 
-			ea isBlock | (ea class == MethodContext) ifTrue: [ 
+			ea isBlock | (ea class == Context) ifTrue: [ 
 				list add: ea receiver class ]].
 		aDataStream references at: #BlockReceiverClasses put: list].

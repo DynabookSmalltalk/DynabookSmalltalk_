@@ -1,0 +1,4 @@
+buttons
+colorForButtons
+
+	^color darker

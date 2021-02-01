@@ -1,4 +1,0 @@
-viewer
-uniqueNameForReferenceOrNil
-
-	^ nil.

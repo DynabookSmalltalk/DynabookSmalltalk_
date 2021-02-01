@@ -13,7 +13,7 @@ doLayoutIn: layoutBounds
 	self submorphsDo: [:m | m ownerChanged].
 
 	"2) Compute the new layout. This goes down the entire morph hierarchy. See #layoutInBounds: and #minExtent, which are the usual layout-policy callbacks."
-	self layoutPolicy ifNotNil: [:layout |
+	self layoutPolicy ifNil: [self submorphsDo: [:m | m fullBounds]] ifNotNil: [:layout |
 		
 		"2.1) Compute the new layout."
 		self removeProperty: #doLayoutAgain.		

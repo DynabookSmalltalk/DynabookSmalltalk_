@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Security-Namespaces",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name" ],
+	"name" : "MCNamespace",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

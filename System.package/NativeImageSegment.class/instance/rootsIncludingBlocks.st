@@ -8,7 +8,7 @@ rootsIncludingBlocks
 	outPointers do: [:anOut | 
 		anOut class == CompiledMethod ifTrue: [extras add: anOut].
 		(anOut isBlock) ifTrue: [extras add: anOut].
-		(anOut class == MethodContext) ifTrue: [extras add: anOut]].
+		(anOut class == Context) ifTrue: [extras add: anOut]].
 
 	[have := extras size.
 	 extras copy do: [:anOut |

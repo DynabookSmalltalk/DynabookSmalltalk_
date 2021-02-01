@@ -3,7 +3,7 @@ compile: origCode in: cls notifying: notify ifFail: failBlock
 
 	| origCodeStream parseTree structuredCode translatedCode |
 	origCodeStream := origCode asString readStream.
-	self from: origCodeStream class: cls context: nil notifying: notify.
+	self from: origCodeStream class: cls "context: nil" notifying: notify.
 	[
 		parseTree := OMeta2RuleParser matchStream: origCodeStream with: #rule withArgs: #() withPlaybackDebugging: false.
 		parseTree := OMeta2Optimizer match: parseTree with: #optimizeRule.

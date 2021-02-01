@@ -1,0 +1,4 @@
+buttons
+getPartsBinStatus
+
+	^pageHolder isPartsBin

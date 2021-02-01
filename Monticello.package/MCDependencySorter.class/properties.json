@@ -4,11 +4,12 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "ct 4/18/2020 16:38",
 	"instvars" : [
+		"nondeferred",
+		"deferred",
 		"required",
-		"provided",
-		"orderedItems" ],
+		"provided" ],
 	"name" : "MCDependencySorter",
 	"pools" : [
 		 ],

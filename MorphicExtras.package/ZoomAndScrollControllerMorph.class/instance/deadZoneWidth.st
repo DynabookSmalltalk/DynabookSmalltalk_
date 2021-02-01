@@ -1,0 +1,4 @@
+constants
+deadZoneWidth
+
+	^8

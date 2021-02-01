@@ -1,0 +1,15 @@
+{
+	"category" : "MorphicExtras-AdditionalSupport",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"worldBoundsToShow",
+		"useRegularWarpBlt" ],
+	"name" : "BOBTransformationMorph",
+	"pools" : [
+		 ],
+	"super" : "TransformationMorph",
+	"type" : "normal" }

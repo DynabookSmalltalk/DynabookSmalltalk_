@@ -4,7 +4,7 @@ sendersOfIt
 
 	self lineSelectAndEmptyCheck: [^ self].
 	self selectedSelector ifNotNil:
-		[:aSelector| ^self systemNavigation browseAllCallsOn: aSelector].
+		[:aSelector| ^self model browseAllCallsOn: aSelector].
 	self selectedLiteral ifNotNil:
-		[:aLiteral| ^self systemNavigation browseAllCallsOn: aLiteral].
+		[:aLiteral| ^self model browseAllCallsOn: aLiteral].
 	morph flash

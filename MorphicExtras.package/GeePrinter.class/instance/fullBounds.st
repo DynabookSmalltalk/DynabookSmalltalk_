@@ -1,0 +1,4 @@
+layout
+fullBounds
+
+	^self bounds
