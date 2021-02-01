@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"compile:ifFail:" : "GDK 2/1/2021 14:46",
 		"compile:in:classified:notifying:ifFail:" : "warf 2/18/2009 16:30",
 		"compile:in:environment:notifying:ifFail:" : "GDK 1/26/2021 05:29",
 		"compile:in:notifying:ifFail:" : "GDK 1/26/2021 05:28",

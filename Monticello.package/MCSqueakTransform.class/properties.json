@@ -1,0 +1,14 @@
+{
+	"category" : "Monticello-Security-Namespaces",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"targetNamespace" ],
+	"name" : "MCSqueakTransform",
+	"pools" : [
+		 ],
+	"super" : "O2SqueakRecognizer",
+	"type" : "normal" }
